@@ -1,6 +1,6 @@
 {
   "kind": "storymap",
-  "generatedAt": "2026-08-17T00:32:26.852Z",
+  "generatedAt": "2026-08-17T00:49:55.234Z",
   "generator": "spatial-intelligence-static-export",
   "storymap": {
     "document": {
@@ -383,7 +383,7 @@
           "figure": null,
           "divider": null,
           "textStyle": {
-            "fontSize": 12,
+            "fontSize": 10,
             "fontFamily": "arial"
           },
           "titleStyle": {
@@ -430,7 +430,7 @@
       ]
     },
     "board": {
-      "capturedAt": "2026-08-17T00:32:26.851Z",
+      "capturedAt": "2026-08-17T00:49:55.233Z",
       "maps": [],
       "assets": [],
       "overlays": [],
@@ -73688,10 +73688,11 @@
         "coverText": "#f5f7fa",
         "coverMuted": "rgba(245, 247, 250, 0.9)",
         "coverScrim": "#0c2436",
-        "displayFont": "Georgia, \"Times New Roman\", serif",
+        "displayFont": "Georgia, 'Times New Roman', serif",
         "bodyFont": "Arial, Helvetica, sans-serif",
         "headingSize": "15pt",
-        "bodySize": "12pt"
+        "bodySize": "12pt",
+        "creditsSize": "10pt"
       },
       "cover": {
         "layout": "overlay",
@@ -73709,10 +73710,135 @@
         "scrimFlat": "rgba(12, 36, 54, 0.3)",
         "title": "Project 2 Storymap",
         "subtitle": "Identifying Wastewater Treatment Plants in California that would benefit from upgrading to Combined Heat & Power (CHP)",
+        "titleFace": {
+          "font-family": "Georgia, 'Times New Roman', serif",
+          "font-weight": "600"
+        },
+        "subtitleFace": {
+          "font-family": "Arial, Helvetica, sans-serif",
+          "font-size": "12pt",
+          "text-align": "center"
+        },
         "mediaUrl": "https://live.staticflickr.com/4808/45098457715_a540306883_b.jpg",
         "hasMap": false,
         "showTitlePanel": true,
         "onPhoto": true
+      },
+      "faces": {
+        "blk-y50jtji4": {
+          "title": {
+            "font-family": "Georgia, 'Times New Roman', serif",
+            "font-size": "15pt",
+            "font-weight": "600",
+            "line-height": "1.25"
+          },
+          "body": {
+            "font-family": "Arial, Helvetica, sans-serif",
+            "font-size": "12pt",
+            "line-height": "1.625"
+          }
+        },
+        "blk-8khzox2p": {
+          "title": {
+            "font-family": "Georgia, 'Times New Roman', serif",
+            "font-size": "15pt",
+            "font-weight": "600",
+            "line-height": "1.25"
+          }
+        },
+        "blk-pozhphic": {
+          "title": {
+            "font-family": "Georgia, 'Times New Roman', serif",
+            "font-size": "15pt",
+            "font-weight": "600",
+            "line-height": "1.25"
+          },
+          "body": {
+            "font-family": "Arial, Helvetica, sans-serif",
+            "font-size": "12pt",
+            "line-height": "1.625"
+          }
+        },
+        "blk-xsgebapn": {
+          "title": {
+            "font-family": "Georgia, 'Times New Roman', serif",
+            "font-size": "17pt",
+            "font-weight": "600",
+            "text-align": "left",
+            "line-height": "1.25"
+          },
+          "body": {
+            "font-family": "Arial, Helvetica, sans-serif",
+            "font-size": "12pt",
+            "text-align": "left",
+            "line-height": "1.625"
+          }
+        },
+        "blk-4b88jnkx": {
+          "title": {
+            "font-family": "Georgia, 'Times New Roman', serif",
+            "font-size": "17pt",
+            "font-weight": "600",
+            "line-height": "1.25"
+          },
+          "body": {
+            "font-family": "Arial, Helvetica, sans-serif",
+            "font-size": "12pt",
+            "line-height": "1.625"
+          }
+        },
+        "blk-wxfdry6x": {
+          "title": {
+            "font-family": "Georgia, 'Times New Roman', serif",
+            "font-size": "17pt",
+            "font-weight": "600",
+            "line-height": "1.25"
+          },
+          "body": {
+            "font-family": "Arial, Helvetica, sans-serif",
+            "font-size": "12pt",
+            "line-height": "1.625"
+          }
+        },
+        "blk-3av064mk": {
+          "title": {
+            "font-family": "Georgia, 'Times New Roman', serif",
+            "font-size": "15pt",
+            "font-weight": "600",
+            "line-height": "1.25"
+          },
+          "body": {
+            "font-family": "Arial, Helvetica, sans-serif",
+            "font-size": "12pt",
+            "line-height": "1.625"
+          }
+        },
+        "blk-fyuvmnuh": {
+          "title": {
+            "font-family": "Georgia, 'Times New Roman', serif",
+            "font-size": "15pt",
+            "font-weight": "600",
+            "line-height": "1.25"
+          },
+          "body": {
+            "font-family": "Arial, Helvetica, sans-serif",
+            "font-size": "12pt",
+            "line-height": "1.625"
+          }
+        },
+        "blk-bxbeqd6g": {
+          "title": {
+            "font-family": "Georgia, 'Times New Roman', serif",
+            "font-size": "15pt",
+            "font-weight": "600",
+            "line-height": "1.25"
+          },
+          "body": {
+            "font-family": "Arial, Helvetica, sans-serif",
+            "font-size": "10pt",
+            "line-height": "1.625"
+          }
+        }
       },
       "showCredits": true,
       "rows": [
@@ -73780,7 +73906,7 @@
       "accent": "#1b4f72",
       "coverPanel": "#123a54",
       "coverText": "#f5f7fa",
-      "displayFont": "Georgia, \"Times New Roman\", serif",
+      "displayFont": "Georgia, 'Times New Roman', serif",
       "bodyFont": "Arial, Helvetica, sans-serif"
     }
   }
