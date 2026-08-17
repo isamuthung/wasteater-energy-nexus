@@ -1,6 +1,6 @@
 {
   "kind": "storymap",
-  "generatedAt": "2026-08-17T00:15:29.616Z",
+  "generatedAt": "2026-08-17T00:32:26.852Z",
   "generator": "spatial-intelligence-static-export",
   "storymap": {
     "document": {
@@ -430,7 +430,7 @@
       ]
     },
     "board": {
-      "capturedAt": "2026-08-17T00:15:29.615Z",
+      "capturedAt": "2026-08-17T00:32:26.851Z",
       "maps": [],
       "assets": [],
       "overlays": [],
@@ -73676,6 +73676,103 @@
       "showMapLabels": false,
       "hideOutsideStudyArea": false
     },
+    "chrome": {
+      "inset": "clamp(1rem, 5vw, 1.5in)",
+      "coverMinHeight": "max(680px, 100svh)",
+      "vars": {
+        "bg": "#f3f5f7",
+        "ink": "#15202b",
+        "muted": "#5b6b7c",
+        "accent": "#1b4f72",
+        "coverPanel": "#123a54",
+        "coverText": "#f5f7fa",
+        "coverMuted": "rgba(245, 247, 250, 0.9)",
+        "coverScrim": "#0c2436",
+        "displayFont": "Georgia, \"Times New Roman\", serif",
+        "bodyFont": "Arial, Helvetica, sans-serif",
+        "headingSize": "15pt",
+        "bodySize": "12pt"
+      },
+      "cover": {
+        "layout": "overlay",
+        "align": "center",
+        "author": "Isamu Thung",
+        "panelOpacity": 95,
+        "panelFill": "rgba(18, 58, 84, 0.95)",
+        "panelMargin": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "scrimGradient": "linear-gradient(180deg, rgba(12, 36, 54, 0.55) 0%, rgba(12, 36, 54, 0.4) 45%, rgba(12, 36, 54, 0.68) 100%)",
+        "scrimFlat": "rgba(12, 36, 54, 0.3)",
+        "title": "Project 2 Storymap",
+        "subtitle": "Identifying Wastewater Treatment Plants in California that would benefit from upgrading to Combined Heat & Power (CHP)",
+        "mediaUrl": "https://live.staticflickr.com/4808/45098457715_a540306883_b.jpg",
+        "hasMap": false,
+        "showTitlePanel": true,
+        "onPhoto": true
+      },
+      "showCredits": true,
+      "rows": [
+        {
+          "fullBleed": true,
+          "ids": [
+            "blk-zssmjbmv"
+          ]
+        },
+        {
+          "fullBleed": false,
+          "ids": [
+            "blk-y50jtji4",
+            "blk-8khzox2p"
+          ]
+        },
+        {
+          "fullBleed": false,
+          "ids": [
+            "blk-pozhphic"
+          ]
+        },
+        {
+          "fullBleed": false,
+          "ids": [
+            "blk-xsgebapn"
+          ]
+        },
+        {
+          "fullBleed": false,
+          "ids": [
+            "blk-4b88jnkx"
+          ]
+        },
+        {
+          "fullBleed": false,
+          "ids": [
+            "blk-wxfdry6x"
+          ]
+        },
+        {
+          "fullBleed": false,
+          "ids": [
+            "blk-3av064mk"
+          ]
+        },
+        {
+          "fullBleed": false,
+          "ids": [
+            "blk-fyuvmnuh"
+          ]
+        },
+        {
+          "fullBleed": false,
+          "ids": [
+            "blk-bxbeqd6g"
+          ]
+        }
+      ]
+    },
     "theme": {
       "bg": "#f3f5f7",
       "ink": "#15202b",
@@ -73684,7 +73781,7 @@
       "coverPanel": "#123a54",
       "coverText": "#f5f7fa",
       "displayFont": "Georgia, \"Times New Roman\", serif",
-      "bodyFont": "var(--font-inter), \"Inter\", \"Segoe UI\", system-ui, sans-serif"
+      "bodyFont": "Arial, Helvetica, sans-serif"
     }
   }
 }
