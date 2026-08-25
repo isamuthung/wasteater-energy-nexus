@@ -1,4 +1,6 @@
-# Identifying Wastewater Treatment Facilities in California That Could Benefit From Upgrading to Combined Heat & Power Systems
+# Identifying Wastewater Treatment Facilities in California That 
+Could Upgrade to Combined 
+Heat & Power Systems
 
 This folder is a snapshot of a Storymap Preview — the finished narrative, maps (full attributes on click), charts, tables, and sources. It is not the Spatial Intelligence editor and does not stay in sync with later edits.
 
