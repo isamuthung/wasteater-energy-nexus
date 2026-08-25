@@ -1,6 +1,6 @@
 {
   "kind": "storymap",
-  "generatedAt": "2026-08-25T19:15:30.117Z",
+  "generatedAt": "2026-08-25T20:00:20.378Z",
   "generator": "spatial-intelligence-static-export",
   "storymap": {
     "document": {
@@ -747,7 +747,7 @@
                 ],
                 "pointSizePreset": 2
               },
-              "capturedAt": "2026-08-25T19:15:30.104Z",
+              "capturedAt": "2026-08-25T20:00:20.361Z",
               "kind": "map",
               "blockId": "mb-2ebucmbz",
               "title": "Basic Analysis Map 2"
@@ -1239,7 +1239,7 @@
           "title": "",
           "titleVisible": false,
           "bodyVisible": true,
-          "body": "The results of this preliminary analysis revealed a striking truth: the majority of wastewater treatment plants within California aren't equipped with anaerobic digesters to make them eligable to even consider upgrading to a CHP system.\nFrom the 254 facilities I identified as not having CHP,  54 of them indicated from web searches that they had anaerobic digesters. Another 195 facilities were too either too small to warrent that system, had other non-digestion solids management solutions, or didn't process solids on-site and so they sent it to bigger regional facilities that could process them. 5 of them were inconclusive. This map to the right displays the locations of each facility with cleaned names, and with metadata about the sources used to find this informatino out when you click on each point. Futhermore, the results of the electrical rate geospatial analsyis is also in the data, however many facilites were situated in locations with overlapping electric service territories, so those remain inconclusive. \n",
+          "body": "The results of this preliminary analysis revealed a striking truth: the majority of wastewater treatment plants within California aren't equipped with anaerobic digesters to make them eligable to even consider upgrading to a CHP system.\nFrom the 254 facilities I identified as not having CHP,  54 of them indicated from web searches that they had anaerobic digesters. Another 195 facilities were too either too small to warrent that system, had other non-digestion solids management solutions, or didn't process solids on-site and so they sent it to bigger regional facilities that could process them. 5 of them were inconclusive. This map to the right displays the locations of each facility with cleaned names, and with metadata about the sources used to find this informatino out when you click on each point. Futhermore, the results of the electrical rate geospatial analsyis is also in the data, however many facilites were situated in locations with overlapping electric service territories, so those remain inconclusive. \nPotential Candidates Map Results",
           "embedRef": null,
           "media": null,
           "figure": null,
@@ -1261,6 +1261,15 @@
               "fontSize": 12,
               "underline": false,
               "fontFamily": "sans"
+            },
+            {
+              "end": 1061,
+              "start": 1029,
+              "fontSize": 12,
+              "fontFamily": "sans",
+              "fontWeight": 600,
+              "csvSourceId": "da0b455d-6cbd-4129-8362-46261aba1ea8",
+              "href": "data/facilities-without-chp-system-2.csv"
             }
           ],
           "caption": null,
@@ -1402,7 +1411,7 @@
                 ],
                 "pointSizePreset": 2
               },
-              "capturedAt": "2026-08-25T19:15:30.104Z",
+              "capturedAt": "2026-08-25T20:00:20.361Z",
               "kind": "map",
               "blockId": "mb-3ae73zc7",
               "title": "Facilities Without CHP System"
@@ -1830,7 +1839,7 @@
       ]
     },
     "board": {
-      "capturedAt": "2026-08-25T19:15:30.104Z",
+      "capturedAt": "2026-08-25T20:00:20.361Z",
       "maps": [
         {
           "id": "mb-2ebucmbz",
@@ -157594,6 +157603,17 @@
         }
       },
       "previewAssetRows": {},
+      "csvColumnsByLayer": {
+        "da0b455d-6cbd-4129-8362-46261aba1ea8": [
+          "Facility Name",
+          "Has Anerobic Digester",
+          "Sources",
+          "Electric Service Utility",
+          "Average Price (Cents/kWh)",
+          "latitude",
+          "longitude"
+        ]
+      },
       "studyArea": {
         "type": "MultiPolygon",
         "coordinates": [

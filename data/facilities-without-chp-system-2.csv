@@ -1,0 +1,449 @@
+Facility Name,Has Anerobic Digester,Sources,Electric Service Utility,Average Price (Cents/kWh),latitude,longitude
+San Bernardino Municipal Water Department Water Reclamation Plant,True,"https://www.sbmwd.org/176/Water-Reclamation
+https://www.sbmwd.org/376/Fuel-Cell",Colton Electric Utility Department,24.86,34.044084906,-117.360432037
+Planada Wastewater Treatment Facility,False,"https://www.waterboards.ca.gov/rwqcb5/board_decisions/adopted_orders/merced/r5-2016-0044.pdf
+https://www.planadacsd.org/",Merced Irrigation District,18.95,37.291705053,-120.316712836
+Water Quality Control Plant (WQCP),True,"https://www.ssf.net/departments/public-works/water-quality-control-plant
+https://www.sanbruno.ca.gov/224/Water-Quality-Control-Plant",Pacific Gas & Electric Company,37.70,37.641607579,-122.399983197
+Moorpark Water Reclamation Facility,False,https://publicworks.venturacounty.gov/wsd/sanitation/,"Southern California Edison, Metropolitan Water District of So. Cal",,34.278967121,-118.894090809
+Sewer Authority Mid-Coastside (SAM) Wastewater Treatment Plant,False,"https://samcoastside.org/plant-operations
+https://samcoastside.org/documents",Pacific Gas & Electric Company,37.70,37.472615917,-122.443652184
+City of Crescent City Wastewater Treatment Facility,False,https://www.waterboards.ca.gov/northcoast/board_info/board_meetings/01_2017/pdf/ccity/160927_CityofCrescentCity_WWTF_Draft.pdf,PacifiCorp,19.26,41.747116201,-124.201739576
+Dunsmuir Wastewater Treatment Plant,False,"https://ceqanet.lci.ca.gov/2018122012/3
+https://static1.squarespace.com/static/54c9a764e4b0ee5502d31f04/t/5c06c0ec758d464fc08e4e27/1543946528495/Initial+Study+-+MND+-+Dunsmuir+WWTP+Improvements+-+with+Appendices+12-03-18.pdf",PacifiCorp,19.26,41.183574219,-122.284168648
+City of Needles Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/coloradoriver/board_decisions/adopted_orders/orders/2015/2015_0018city_of_needles_wdr.pdf
+https://www.waterboards.ca.gov/coloradoriver/board_decisions/adopted_orders/orders/1999/99_068.pdf",City of Needles,,34.829971,-114.595233401
+American Canyon Water Reclamation Facility,False,"https://www.americancanyon.gov/Live/Utilities-Services/Water/Wastewater-Collection-Treatment
+https://stories.opengov.com/americancanyonca/3b6a1366-d10f-4535-b1c7-18438d748212/published/X593zQjLr?currentPageId=6a4ee3966a228ec4b9c02c84",Pacific Gas & Electric Company,37.70,38.187904988,-122.278213243
+Mid-Valley Water Reclamation Plant No. 4,Insufficient,"https://www.waterboards.ca.gov/rwqcb7/board_decisions/adopted_orders/resolutions/2023/2023_0013cvwd_wrp4_wdr.pdf
+http://www.cvwd.org/642/Water-Reclamation-Plant-No-4-WRP-4-Non-P",Imperial Irrigation District,18.11,33.59192192,-116.121714784
+City of Coachella Sanitation Division / Coachella Sanitary District Wastewater Treatment Facility,False,"https://www.coachella.org/departments/public-works-department/sanitation-division
+https://www.cvwd.org/163/Wastewater-Treatment",Imperial Irrigation District,18.11,33.656634928,-116.144931793
+City of Lodi White Slough Water Pollution Control Facility,True,https://www.lodi.gov/580/Waste-Water,Pacific Gas & Electric Company,37.70,38.088338047,-121.383624094
+Scotts Valley Wastewater Treatment Facility,False,"https://www.scottsvalley.gov/159/Wastewater
+https://www.scottsvalley.gov/175/Treatment-Process",Pacific Gas & Electric Company,37.70,37.041121934,-122.02716256
+Calleguas Municipal Water District Headquarters / Regional Salinity Management Pipeline,False,"https://www.waterboards.ca.gov/losangeles/board_decisions/adopted_orders/docs/4917_R4-2003-0083_WDR_rev.pdf
+https://ciwqs.waterboards.ca.gov/ciwqs/readOnly/CiwqsReportServlet?reportID=9901594&inCommand=drilldown&reportName=RegulatedFacilityDetail&place=4&program=NPDES&majorminor=Major","Southern California Edison, Metropolitan Water District of So. Cal",,34.243525993,-118.836693079
+City of Redlands Wastewater Treatment Plant,False,"https://www.redlands.gov/wastewater-treatment/
+https://lincusenergy.com/redlands-wastewater-treatment-plant-completes-energy-improvements/",Southern California Edison,26.48,34.070724918,-117.205762012
+Mt. View Sanitary District (MVSD) Wastewater Treatment Plant,False,"https://www.mvsd.org/wastewater-treatment-process
+https://www.waterboards.ca.gov/sanfranciscobay/board_decisions/adopted_orders/2010/R2-2010-0099.pdf",Pacific Gas & Electric Company,37.70,38.019625988,-122.099947196
+City of Ukiah Wastewater Treatment Facility,False,https://cityofukiah.com/water-sewer/,"Pacific Gas & Electric Company, City of Ukiah Electric Utilities Division",,39.112404992,-123.187703493
+Oakhurst Wastewater Treatment Facility,Insufficient,"https://ceqanet.lci.ca.gov/1979021965
+https://www.maderacounty.com/government/community-economic-development-department/divisions/environmental-health-division",Pacific Gas & Electric Company,37.70,37.3507516,-119.699905145
+San Francisco International Airport (SFO) Mel Leong Treatment Plant (MLTP),False,"https://plantconstruction.com/projects/sfo-mel-leong-treatment-plant/
+https://baywork.org/wp-content/uploads/2018/06/Project-Survey-Airport.pdf",Pacific Gas & Electric Company,37.70,37.636254936,-122.385843194
+North Fresno Wastewater Reclamation Facility (NFWRF),False,"https://www.fresno.gov/publicutilities/sewer-wastewater/wastewater-facilities-infrastructure/
+https://www.fresno.gov/publicutilities/sewer-wastewater/",Pacific Gas & Electric Company,37.70,36.895638262,-119.754812892
+Stege Sanitary District (SSD) Collection System,False,"https://stegesanitary.org/
+https://www.ebmud.com/wastewater/wastewater-treatment",Pacific Gas & Electric Company,37.70,37.918814966,-122.299853214
+City of Yuba City Wastewater Treatment Facility,True,https://yubacity.net/departments/public_works/wastewater_treatment/wastewater_treatment_plant_operations/index.php,Pacific Gas & Electric Company,37.70,39.107505114,-121.612291255
+"Forestville Water District Wastewater Treatment, Recycling, and Disposal Facility",False,"https://www.waterboards.ca.gov/northcoast/board_info/board_meetings/04_2024/pdf/4/4-forestville-ssr.pdf
+https://www.forestvillewd.com/waste-water-sewer-service","Pacific Gas & Electric Company, Power and Water Resource Pooling Authority",,38.470274966,-122.888723368
+North Bayside System Unit (NBSU),False,"https://www.waterboards.ca.gov/sanfranciscobay/board_info/agendas/2019/July/5c_ssr.pdf
+https://ciwqs.waterboards.ca.gov/ciwqs/readOnly/PublicAttachmentRetriever?parentID=3438169&attachmentID=704844&attType=4","Pacific Gas & Electric Company, City and County of San Francisco - Hetch Hetchy Water and Power",,37.732718943,-122.390460206
+City of Berkeley Wastewater Collection System,False,"https://berkeleyca.gov/services/environmental-programs/sewers-and-stormwater
+https://www.ebmud.com/wastewater/how-wastewater-treated",Pacific Gas & Electric Company,37.70,37.879127462,-122.30598321
+Placer County Sewer Maintenance District No. 3 (SMD 3) Wastewater Treatment Plant,False,"https://www.placer.ca.gov/DocumentCenter/View/36147/11_Utilities-and-Service-Systems-Archive-PDF
+https://ceqanet.lci.ca.gov/2011122079/6",Pacific Gas & Electric Company,37.70,38.797783126,-121.134180142
+City of Rialto Wastewater Treatment Plant,True,https://rialtowater.com/,Not Applicable,,34.055904907,-117.361352038
+Stallion Springs Community Services District (CSD) Wastewater Treatment Facility,False,https://www.stallionspringscsd.com/services/page/wastewater,Southern California Edison,26.48,35.082415037,-118.637092752
+City of Jackson Wastewater Treatment Plant,False,https://www.waterboards.ca.gov/centralvalley/board_decisions/tentative_orders/2410/14_uncon_npdes/14a_jackson_wtp/jackson_wwtp_buff.pdf,Pacific Gas & Electric Company,37.70,38.333305112,-120.78331303
+Rodeo Sanitary District Water Pollution Control Plant (WPCP),False,"https://rodeosan.org/about/
+https://rodeosan.org/wp-content/uploads/2025/12/rsd_job-posting_20251212.pdf",Pacific Gas & Electric Company,37.70,38.040514979,-122.262703223
+City of Benicia Wastewater Treatment Plant,True,"https://solano.courts.ca.gov/system/files/belt-waste-water-052402019-final.pdf
+https://www.overaa.com/projects/benicia-wastewater-treatment-plant/",Pacific Gas & Electric Company,37.70,38.045313558,-122.150896064
+City of Palo Alto Regional Water Quality Control Plant (RWQCP),False,"https://www.paloalto.gov/Departments/Public-Works/Regional-Water-Quality-Control-Plant
+https://www.waterboards.ca.gov/rwqcb2/board_info/agendas/2015/February/PARWQCP/TOCDO_Palo_%20Alto.pdf","Power and Water Resource Pooling Authority, City of Palo Alto",,37.45833794,-122.110846133
+North San Mateo County Sanitation District Wastewater Treatment Facility,False,"https://www.smcgov.org/confluence/display/CSD/North+San+Mateo+County+Sanitation+District
+https://www.waterboards.ca.gov/sanfranciscobay/board_decisions/adopted_orders/2012/R2-2012-0036.pdf",Pacific Gas & Electric Company,37.70,37.703429903,-122.485956301
+City of Willows Wastewater Treatment Plant,False,https://cityofwillows.org/departments/community-development-services/public-works-division/,Pacific Gas & Electric Company,37.70,39.5007101,-122.192194396
+Windsor Water Reclamation Facility (WWRF),False,"https://ceqanet.lci.ca.gov/2022110335
+https://www.townofwindsor.ca.gov/578/Water-Reclamation-Facilities","Pacific Gas & Electric Company, Power and Water Resource Pooling Authority",,38.541084977,-122.816853366
+Avila Beach Community Services District Wastewater Treatment Facility,False,"https://www.avilabeachcsd.org/wastewater-treatment-facility
+https://www.waterboards.ca.gov/centralcoast/board_decisions/adopted_orders/2021/r3-2021-0003_avilawwtp.pdf",Pacific Gas & Electric Company,37.70,35.181642903,-120.730043425
+City of Albany Sanitary Sewer Collection System,False,"https://www.albanyca.gov/Departments/Public-Works/Programs/Sanitary-Sewer-System
+https://www.ebmud.com/wastewater/collection-treatment/sewers",Pacific Gas & Electric Company,37.70,37.886874962,-122.29776021
+Santa Ynez Band of Chumash Indians Wastewater Treatment Plant,False,"https://www.epa.gov/npdes-permits/CA0050008
+https://19january2021snapshot.epa.gov/sites/static/files/2017-08/documents/ca0050008-santa-ynez-final-permit-factsheet-2014.pdf",Pacific Gas & Electric Company,37.70,38.235837992,-122.28612425
+City of Tracy Wastewater Treatment Plan,True,"https://www.waterboards.ca.gov/rwqcb5/board_decisions/adopted_orders/san_joaquin/r5-2022-0073_npdes.pdf
+https://www.cityoftracy.org/files/assets/city/v/1/public-works/documents/2010-municipal-emissions-inventory-update.pdf",Pacific Gas & Electric Company,37.70,37.765561016,-121.420846062
+Jurupa Community Services District (JCSD) Indian Hills System / Regional Wastewater Facilities,False,"https://www.jcsd.us/yourdistrict/wastewater/
+https://www.jcsd.us/wp-content/uploads/2024/04/2020-UWMP_E-Version_with_WSCP.pdf","Southern California Edison, Metropolitan Water District of So. Cal",,33.981034892,-117.456462048
+San Elijo Wastewater Reclamation Facility,True,"https://www.sejpa.org/about-us
+https://www.sejpa.org/water-learning/wastewater-treatment","San Diego Gas & Electric, Metropolitan Water District of So. Cal",,33.013574791,-117.272981942
+San Jose Creek Water Reclamation Plant (WRP),False,"https://www.lacsd.org/services/wastewater-sewage/facilities/san-jose-creek-water-reclamation-plant
+https://www.lacsd.org/services/wastewater-sewage/facilities/wastewater-treatment-process","Southern California Edison, Metropolitan Water District of So. Cal",,34.032115866,-118.021068148
+Graton Community Services District Wastewater Treatment Facility,False,"https://www.graton.org/services
+https://heroninnovators.com/graton-saf-achieves-results-impossible","Pacific Gas & Electric Company, Power and Water Resource Pooling Authority",,38.437444965,-122.869893361
+City of Gustine Wastewater Treatment Facility,False,https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/merced/r5-2016-0062.pdf,Pacific Gas & Electric Company,37.70,37.256318004,-120.960739934
+Scotia Wastewater Treatment Plant,Insufficient,https://www.waterboards.ca.gov/northcoast/board_decisions/adopted_orders/pdf/2012/120524_12_0065_NPDES_ScotiaCSDWWTF.pdf,Pacific Gas & Electric Company,37.70,40.454539018,-124.0402588
+West County Agency (WCA) Common Outfall,False,"https://www.contracostalafco.org/municipal_service_reviews/west_county_water_wastewater/8.0%20WCWD%20Final.pdf
+https://wcwd.org/collaboration/",Pacific Gas & Electric Company,37.70,37.977154968,-122.332703226
+Tapia Water Reclamation Facility,True,"https://www.lvmwd.gov/tapia-water-reclamation-facility
+https://www.lvmwd.gov/rancho-las-virgenes-composting-facility","Southern California Edison, Metropolitan Water District of So. Cal",,34.081963833,-118.708699267
+City of Rio Vista Northwest Wastewater Treatment Facility,False,"https://www.waterboards.ca.gov/centralvalley/board_decisions/tentative_orders/2102/10_uncon_npdes/10c_riovista_npdes/riovistanw_wwtf_noph.pdf
+https://ceqanet.lci.ca.gov/1991063066/3",Pacific Gas & Electric Company,37.70,38.186755974,-121.703845446
+City of Paso Robles Wastewater Treatment Facility,True,https://www.2g-energy.com/projects/wm-lyles-paso-robles,Pacific Gas & Electric Company,37.70,35.658337874,-120.691679727
+Sonora Regional Wastewater Treatment Facility,False,https://tudwater.com/tud-project/sonora-regional-wastewater-treatment-facility/,Pacific Gas & Electric Company,37.70,37.933533104,-120.422818925
+Russian River Treatment Plant,False,"https://www.sonomawater.org/RRCSD
+https://www.sonomawater.org/files/2026_spring_rrcsd_newsletter.pdf","Pacific Gas & Electric Company, Power and Water Resource Pooling Authority",,38.485560958,-122.999457386
+Stege Sanitary District Wastewater Collection and Conveyance System,False,"https://www.stegessd.org/about-us
+https://www.stegessd.org/wastewater-treatment",Pacific Gas & Electric Company,37.70,37.82325389,-122.297626284
+Oceanside Water Pollution Control Plant (OWPCP),True,"https://www.shimmick.com/portfolio/oceanside-water-pollution-control-digesters/
+https://www.epcconsultants.com/oceanside-water-pollution-control-plant","Pacific Gas & Electric Company, City and County of San Francisco - Hetch Hetchy Water and Power",,37.728604935,-122.504863223
+American Valley Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/centralvalley/board_decisions/tentative_orders/2402/15_uncon_npdes/15_uncon_npdes_buff.pdf
+https://quincycsd.com/about-us",Not Applicable,,39.951155238,-120.937643262
+City of Calistoga Dunaweal Wastewater Treatment Plant,False,"https://www.calistogaca.gov/Services/Public-Works/Water-and-Wastewater-Treatment
+https://www.waterboards.ca.gov/sanfranciscobay/board_info/agendas/2006/October/6_SSR.pdf",Pacific Gas & Electric Company,37.70,38.567339742,-122.556210602
+Arcata Wastewater Treatment Facility,True,"https://www.cityofarcata.org/DocumentCenter/View/7454/AMWS-Map---Guide-
+https://www.ferndalescience.com/arcatamarsh/digester3.html",Pacific Gas & Electric Company,37.70,40.855405041,-124.090213866
+Yountville Wastewater Reclamation Facility,False,"https://www.townofyountville.com/329/Wastewater
+https://www.waterboards.ca.gov/sanfranciscobay/board_info/agendas/2010/May/5A/TO_5-4-10.pdf",Pacific Gas & Electric Company,37.70,38.395818756,-122.35796252
+City of Oakland Sanitary Sewer Collection System,False,"https://www.oaklandca.gov/topics/sewers-and-stormdrains
+https://www.ebmud.com/wastewater/collection-treatment",Pacific Gas & Electric Company,37.70,37.780692958,-122.234543188
+Grizzly Ranch Community Services District Wastewater Recycling Facility,False,"https://www.grizzlyranchcsd.com/wastewater-project
+https://www.waterboards.ca.gov/rwqcb5/board_decisions/adopted_orders/general_orders/2014-0153-dwq_noas/2014-0153-dwq-r5301.pdf",Not Applicable,,39.83708527,-120.420493164
+Linda County Water District Wastewater Treatment Plant,True,"https://www.waterboards.ca.gov/rwqcb5/board_decisions/adopted_orders/sutter/r5-2022-0070_npdes.pdf
+https://www.waterboards.ca.gov/board_info/agendas/2009/jul/070709_7.pdf",Pacific Gas & Electric Company,37.70,39.095398115,-121.58518925
+City of Anderson Water Pollution Control Plant,False,"https://cms3.revize.com/revize/andersoncanew/departments/public_works1/docs/Wastewater%20Plant%20Process%20Tour%20with%20pics%20Revised%203-12-10.pdf
+https://www.ci.anderson.ca.us/DocumentCenter/View/1155/Wastewater-Treatment-Plant-PDF",Pacific Gas & Electric Company,37.70,40.466394167,-122.275013541
+Inland Empire Utilities Agency (IEUA) Regional Water Recycling Plant No. 1 (RP-1),True,https://www.ieua.org/regional-water-recycling-plant-no-1/,"Southern California Edison, Metropolitan Water District of So. Cal",,34.02835089,-117.600342076
+City of Clovis Water Reuse Facility,False,https://www.clovisca.gov/services/public_utilities/water/recycled_water.php,Pacific Gas & Electric Company,37.70,36.793855055,-119.613452669
+Livermore-Amador Valley Water Management Agency (LAVWMA) Export and Storage Facilities,False,https://lavwma.com/about/facilities/,Pacific Gas & Electric Company,37.70,37.695424975,-121.919353131
+Deuel Vocational Institution Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/rwqcb5/board_decisions/adopted_orders/san_joaquin/r5-2014-0014.pdf
+https://ceqanet.lci.ca.gov/2006022141",Pacific Gas & Electric Company,37.70,37.745235021,-121.339093047
+City of Emeryville Wastewater Collection System,False,https://www.ebmud.com/wastewater/collection-treatment,Pacific Gas & Electric Company,37.70,37.83127496,-122.285503202
+Maxwell Public Utility District (PUD) Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/colusa/r5-2016-0043.pdf
+https://www.countyofcolusa.org/DocumentCenter/View/14732/Maxwell-Community-Plan","Pacific Gas & Electric Company, Power and Water Resource Pooling Authority",,39.265283082,-122.184457363
+Cutler-Orosi Joint Powers Wastewater Authority Treatment Facility,False,"https://www.waterboards.ca.gov/centralvalley/board_decisions/tentative_orders/2502/14_uncon_npdes/14b_cutler_orosi/cojpwa_wwtf_noph.pdf
+https://sdwis.waterboards.ca.gov/PDWW/JSP/WaterSystemDetail.jsp?tinwsys_is_number=6001&tinwsys_st_code=CA&wsnumber=CA5490004",Pacific Gas & Electric Company,37.70,36.52314505,-119.30488259
+Inland Empire Utilities Agency (IEUA) Regional Water Recycling Plant No. 2 (RP-2),True,"https://www.ieua.org/regional-water-recycling-plant-no-2/
+https://www.ieua.org/wp-content/uploads/2025/01/Agency-Fact-sheet-2025.pdf","Southern California Edison, Metropolitan Water District of So. Cal",,33.968353054,-117.674884152
+Coyote Valley Band of Pomo Indians Wastewater Treatment Facility,False,"https://www.coyotevalleytribe.org/copy-of-tribal-council
+https://www.epa.gov/environmental-topics-tribes/tribal-water-programs-pacific-southwest",Pacific Gas & Electric Company,37.70,35.102094826,-120.625102664
+Sewerage Agency of Southern Marin (SASM) Wastewater Treatment Plant,False,"https://www.cityofmillvalley.gov/DocumentCenter/View/10666/BACWA-2022-Recycled-Water-Study
+https://www.millvalleylibrary.org/446/About-Us",Pacific Gas & Electric Company,37.70,37.896684947,-122.527413245
+Hangtown Creek Water Reclamation Facility,False,https://www.waterworld.com/home/article/16194015/overcoming-water-reclamation-facility-construction-challenges,Pacific Gas & Electric Company,37.70,38.730838142,-120.846680088
+Camrosa Water Reclamation Facility,False,"https://www.camrosa.com/water-reclamation/
+https://www.waterboards.ca.gov/losangeles/board_decisions/adopted_orders/npdes_orders/R4-2019-0112/R4-2019-0112.pdf",Southern California Edison,26.48,34.171615823,-119.053068331
+Sanitation District No. 5 of Marin County Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/sanfranciscobay/board_info/agendas/2011/August/SD5/TO.pdf
+https://www.sani5.org/",Pacific Gas & Electric Company,37.70,37.872874951,-122.451103231
+Summerland Sanitary District Wastewater Treatment Plant,False,"https://summerlandsd.org/public-information/facilities/
+https://summerlandsd.org/about-us/",Southern California Edison,26.48,34.420214819,-119.598232441
+Bert Crane Regional Wastewater Treatment Plant,False,"https://www.atwater.org/departments/publicworks/
+https://www.overaa.com/projects/atwater-bert-crane-wastewater-treatment-plant-improvements/",Merced Irrigation District,18.95,37.345859038,-120.600720887
+Valley Sanitary District Water Reclamation Facility,True,"https://www.valley-sanitary.org/treatment-operations
+https://cweaac25.eventscribe.net/QRcode.asp?presentation=2965707",Imperial Irrigation District,18.11,33.715282931,-116.196955807
+IBM / Coyote Valley Complex Wastewater Treatment Facility,False,"https://www.sanjoseca.gov/Home/ShowDocument?id=43936
+https://ceqanet.lci.ca.gov/2007052067",Pacific Gas & Electric Company,37.70,39.254565735,-123.213148363
+Hammonton Gold Village Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/yuba/r5-2007-0017.pdf
+https://agendasuite.org/iip/yuba/file/getfile/9973",Pacific Gas & Electric Company,37.70,39.197119146,-121.313603221
+City of Colfax Wastewater Treatment Plant,False,"https://colfax-ca.gov/government/public-works/sewer-collection-system/
+https://ceqanet.lci.ca.gov/2021080264",Pacific Gas & Electric Company,37.70,39.080934086,-120.942204485
+Newhall Ranch Water Reclamation Plant,False,"https://file.lacounty.gov/SDSInter/bos/supdocs/159134.pdf
+https://www.waterboards.ca.gov/losangeles/board_decisions/tentative_orders/individual/npdes/newhall_ranch_wrp/rtc_newhall_ranch_wrp.pdf",Southern California Edison,26.48,34.403171869,-118.689679291
+City Of Ferndale Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/northcoast/board_info/board_meetings/07_2009/pdf/ferndale/09_0034_FerndaleNPDES.pdf
+https://ci.ferndale.ca.us/departments/public-works/",Pacific Gas & Electric Company,37.70,40.59302501,-124.259753852
+City of Davis Wastewater Treatment Plant,False,https://www.cityofdavis.org/city-hall/public-works-utilities-and-operations/wastewater/wastewater-treatment-plant,Pacific Gas & Electric Company,37.70,38.575731069,-121.634943192
+Fairfield-Suisun Wastewater Treatment Plant,True,"https://www.fairfieldsuisunsewer.ca.gov/did-you-now-faq/
+https://www.overaa.com/projects/fairfield-suisun-bioenergy-generation/",Pacific Gas & Electric Company,37.70,38.220280006,-122.080289217
+Stillwater Wastewater Treatment Facility,False,"https://www.waterboards.ca.gov/rwqcb5/board_decisions/adopted_orders/shasta/r5-2023-0017_npdes.pdf
+https://ceqanet.lci.ca.gov/2026050674",Redding Electric Utility,,40.507176998,-122.302766124
+City of Sacramento Combined Wastewater Collection and Treatment System (CWCTS),False,"https://www.waterboards.ca.gov/rwqcb5/board_decisions/tentative_orders/2602/09_sac_npdes/saccity_css_sum.pdf
+https://www.cbsnews.com/sacramento/news/sacramento-sewer-system-innovation-lab/",Sacramento Municipal Utility District,16.62,38.523245073,-121.524691169
+Hayward Marsh,False,https://www.hayward-ca.gov/services/city-services/wastewater-treatment-facility,Pacific Gas & Electric Company,37.70,37.649645335,-122.144556552
+Pomona Water Reclamation Plant,False,https://www.lacsd.org/services/wastewater-sewage/facilities/pomona-water-reclamation-plant,"Southern California Edison, Metropolitan Water District of So. Cal",,34.055660531,-117.79030363
+Walnut Grove Wastewater Treatment Facility,False,"https://www.sacsewer.com/about-us/
+https://sacsewer-bucket.s3.us-west-1.amazonaws.com/wp-content/uploads/Regional-San-State-of-the-District-2022.pdf",Sacramento Municipal Utility District,16.62,38.428988196,-121.433781208
+Ventura Water Reclamation Facility,True,"https://www.cityofventura.ca.gov/DocumentCenter/View/34805/13
+https://www.waterboards.ca.gov/rwqcb4/board_decisions/adopted_orders/docs/1822_00-143_FS.pdf",Southern California Edison,26.48,34.240004818,-119.261212371
+Delleker Wastewater Treatment Plant,False,"https://grizzlylakecsd.com/
+https://www.waterboards.ca.gov/rwqcb5/board_decisions/adopted_orders/plumas/r5-2020-0900_tso.pdf",Not Applicable,,39.803725261,-120.498253172
+City of El Centro Wastewater Treatment Plant,True,"https://www.cityofelcentro.org/publicworks/water-and-wastewater/
+https://www.waterboards.ca.gov/coloradoriver/board_decisions/adopted_orders/orders/2021/r7-2021-0002_el_centro.pdf",Imperial Irrigation District,18.11,32.816425467,-115.57868061
+East Bay Municipal Utility District (EBMUD) Albany Wet Weather Facility,False,"https://www.albanyca.gov/Departments/Public-Works/Programs/Sanitary-Sewer-System
+https://www.ebmud.com/download_file/force/44620/630?EBMUD_2024_Pretreatment_Annual_Report.pdf",Pacific Gas & Electric Company,37.70,37.886874962,-122.29776021
+Sewerage Commission – Oroville Region (SC-OR) Wastewater Treatment Plant,True,"https://www.scorca.gov/
+https://www.buttelafco.org/lake-oroville-public-utility-district",Pacific Gas & Electric Company,37.70,39.48568515,-121.563453297
+Arcata Wastewater Treatment Facility and Wetlands Demonstration Project,True,"https://www.arcatamarshfriends.org/the-marsh/wastewater-treatment/
+https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=2000472J.TXT","Southern California Edison, Metropolitan Water District of So. Cal",,33.670684837,-117.834524247
+Fort Bragg Municipal Improvement District No. 1 Wastewater Treatment Plant,False,"https://city.fortbragg.com/departments/public_works/treatment_division/waste_water.php
+https://www.hdrinc.com/portfolio/fort-bragg-wastewater-treatment-plant-upgrade",Pacific Gas & Electric Company,37.70,39.439029966,-123.814735627
+Valencia Water Reclamation Plant,True,"https://www.lacsd.org/services/wastewater-sewage/facilities/valencia-water-reclamation-plant
+https://eaintegrator.com/resources/valencia-water-reclamation-plant/",Southern California Edison,26.48,34.432411326,-118.591865335
+Western Riverside County Regional Wastewater Authority (WRCRWA) Treatment Plant,True,"https://westernwaterca.gov/178/Wastewater
+https://www.homegardenssanitarydistrict.com/wastewater-treatment-info","Southern California Edison, Metropolitan Water District of So. Cal",,33.931807059,-117.604643206
+Los Coyotes Water Reclamation Plant,False,https://www.lacsd.org/services/wastewater-sewage/facilities/los-coyotes-water-reclamation-plant,"City of Cerritos, Metropolitan Water District of So. Cal",,33.879893845,-118.10351215
+City of Galt Wastewater Treatment Plant and Reclamation Facility,False,"https://www.cityofgalt.org/government/public-works-department/utilities-division/wastewater/treating-wastewater
+https://www.cityofgalt.org/?navid=137",Sacramento Municipal Utility District,16.62,38.291380628,-121.27571088
+City of Piedmont Sanitary Sewer Collection System,False,"https://piedmont.ca.gov/services___departments/public_works/maintenance_division/sanitary_sewer_system
+https://www.ebmud.com/wastewater/collection-treatment/sewers",Pacific Gas & Electric Company,37.70,37.824654963,-122.232663193
+East Bay Dischargers Authority (EBDA) Common Outfall,False,"https://ebda.org/
+https://www.waterboards.ca.gov/sanfranciscobay/board_info/agendas/2022/July/EastBay/EBDA_Tent_Order.pdf",Pacific Gas & Electric Company,37.70,37.691991649,-122.184229194
+City of Live Oak Wastewater Treatment Plant,False,"https://ceqanet.lci.ca.gov/2004112096/3
+https://www.haskell.com/project/live-oak-wastewater-treatment-plant/",Pacific Gas & Electric Company,37.70,39.259449122,-121.678624285
+City of Visalia Water Reclamation Facility,0,"https://www.visalia.gov/532/Wastewater
+https://droughtresilience.com/wp-content/uploads/2019/05/Appendix-R-Tulare-County-Wastewater-Treatment-Facilities.pdf","Southern California Edison, Eastside Power Authority",,36.311872021,-119.412145586
+City of Chico Water Pollution Control Plant (WPCP),True,"https://chicoca.gov/Departments/Public-Works/Operations--Maintenance/Water-Pollution-Control-Plant/
+https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/orders/r5-2022-0033.pdf",Pacific Gas & Electric Company,37.70,39.699615139,-121.910773379
+City of Mt. Shasta Wastewater Treatment Plant,False,https://www.mtshastaca.gov/public-works/page/wastewater-treatment-plant,PacifiCorp,19.26,41.277783223,-122.313763667
+Avalon Wastewater Treatment Facility,False,"https://www.waterboards.ca.gov/losangeles/board_decisions/adopted_orders/docs/0066_R4-2024-0253_WDR.pdf
+http://catalinaislandblog.blogspot.com/2015/04/catalina-island-wasterwater.html",Southern California Edison,26.48,33.336427254,-118.312414634
+Occidental County Sanitation District (OCSD) Wastewater Treatment Facility,False,"https://www.sonomawater.org/ocsd
+https://www.waterboards.ca.gov/northcoast/board_decisions/adopted_orders/pdf/2007/070305_07-0022-Occidental_ACLC.pdf","Pacific Gas & Electric Company, Power and Water Resource Pooling Authority",,38.395726953,-122.970384371
+Anchor Bay Wastewater Treatment Facility,False,https://www.waterboards.ca.gov/northcoast/board_decisions/adopted_orders/pdf/2010/100616_10_0038_NPDES_MCWWD2_AnchorBay.pdf,Pacific Gas & Electric Company,37.70,38.803524939,-123.572863509
+Centinela State Prison Wastewater Treatment Plant,False,https://ciwqs.waterboards.ca.gov/ciwqs/enfActionDocRetriever.jsp?actID=351192&docID=307446,Imperial Irrigation District,18.11,32.816012597,-115.778337427
+Las Gallinas Valley Sanitary District (LGVSD) Wastewater Treatment Plant,True,https://www.lgvsd.org/wastewater-treatment,Pacific Gas & Electric Company,37.70,38.025282957,-122.52001326
+City of Cloverdale Wastewater Treatment Facility,False,https://www.cloverdale.net/550/Wastewater,"Pacific Gas & Electric Company, Power and Water Resource Pooling Authority",,38.795837981,-123.009457426
+City of Alturas Wastewater Treatment Plant,True,https://www.waterboards.ca.gov/centralvalley/board_decisions/tentative_orders/2602/13_uncon_enforcement/13a_alturas/alturas_wwtp_cdo.pdf,PacifiCorp,19.26,41.47331139,-120.558041421
+Ojai Valley Sanitary District Wastewater Treatment Plant,True,https://www.waterboards.ca.gov/losangeles/board_decisions/adopted_orders/docs/4245_90-062_WDR.pdf.pdf,Southern California Edison,26.48,34.348214828,-119.297952386
+San Juan Creek Ocean Outfall (Managed by South Orange County Wastewater Authority - SOCWA),True,"https://www.socwa.com/san-juan-creek-ocean-outfall
+https://www.socwa.com/jb-latham-treatment-plant","San Diego Gas & Electric, Metropolitan Water District of So. Cal",,33.466579019,-117.685777849
+City of Fortuna Wastewater Treatment Facility,False,"https://www.waterboards.ca.gov/northcoast/board_decisions/adopted_orders/pdf/2023/23_0012_Fortuna_WDID.pdf
+https://www.cityofgloria.com/departments/public-works",Pacific Gas & Electric Company,37.70,40.591073644,-124.157811176
+Tapia Water Reclamation Facility (TWRF),True,"https://www.lvmwd.gov/tapia-water-reclamation-facility
+https://www.lvmwd.gov/rancho-las-virgenes-composting-facility","Southern California Edison, Metropolitan Water District of So. Cal",,34.082009833,-118.704294266
+Bear Valley Wastewater Treatment Facility,False,https://www.bvcsd.org/wastewater-treatment-process,Pacific Gas & Electric Company,37.70,38.466911237,-120.038824657
+Olivehurst Public Utility District (OPUD) Wastewater Treatment Facility,False,"https://www.opud.org/wastewater-treatment
+https://www.waterboards.ca.gov/centralvalley/",Pacific Gas & Electric Company,37.70,39.065045117,-121.55065324
+Long Beach Water Reclamation Plant (LBWRP),False,"https://www.lacsd.org/services/wastewater-sewage/facilities/long-beach-water-reclamation-plant
+https://www.waterboards.ca.gov/losangeles/board_decisions/adopted_orders/docs/9561_2016-0068-DDW_COV.pdf","Southern California Edison, Metropolitan Water District of So. Cal",,33.80416505,-118.088227344
+Los Angeles-Glendale Water Reclamation Plant (LAGWRP),False,"https://www.cvwd.com/our-water-wastewater/wastewater/
+https://www.waterboards.ca.gov/losangeles/board_decisions/tentative_orders/individual/npdes/losangeles_glendale/LAGWRP%20Tentative%20Amended%20Fact%20Sheet%201-28-10.pdf","Los Angeles Department of Water & Power, Metropolitan Water District of So. Cal",,34.141154865,-118.273142199
+Elsinore Valley Municipal Water District (EVMWD) Regional Water Reclamation Facility,False,"https://evmwd.com/evmwd-undergoes-regional-water-reclamation-facility-expansion/
+https://evmwd.com/who-we-are/water-resources/","Southern California Edison, Metropolitan Water District of So. Cal",,33.680843742,-117.340945627
+Ironhouse Sanitary District Water Recycling Facility,False,https://ironhousesanitarydistrict.ca.gov/water-recycling-facility,Pacific Gas & Electric Company,37.70,37.997835016,-121.707473134
+City of Colusa Wastewater Treatment Plant,False,"https://cityofcolusa.com/utilities/
+https://nexgenum.com/project/city-of-colusa/",Pacific Gas & Electric Company,37.70,39.191059109,-122.023142468
+Seeley County Water District Wastewater Treatment Plant,False,"https://www.seeleywaterdistrict.ca.gov/about-your-wastewater-treatment-facility
+https://www.seeleywaterdistrict.ca.gov/seeley-county-water-district-wastewater-treatment-plant-upgrade-project",Imperial Irrigation District,18.11,32.795804845,-115.695711649
+Santa Ynez Band of Chumash Indians Wastewater Treatment Plant,False,"https://www.epa.gov/system/files/documents/2023-01/r9-npdes-ca0066168-factsheet.pdf
+https://www.epa.gov/system/files/documents/2023-01/r9-npdes-ca0066168-permit.pdf",Pacific Gas & Electric Company,37.70,34.608487808,-120.090026536
+City of Corona Water Reclamation Facility No. 3,False,https://ciwqs.waterboards.ca.gov/ciwqs/readOnly/PublicAttachmentRetriever?parentID=20998509&attachmentID=1655287&attType=4,"City of Corona Department of Water & Power, Metropolitan Water District of So. Cal",,33.8203507,-117.507914958
+Redway Community Services District Wastewater Treatment Plant,False,"https://redwaycsd.org/about-us
+https://humboldtlafco.org/wp-content/uploads/Redway-CSD-ADOPTED-MSR-July-2008.pdf",Pacific Gas & Electric Company,37.70,40.12016032,-123.824767804
+Forest Meadows WWastewater Reclamation Plant,False,"https://www.waterboards.ca.gov/centralvalley/board_decisions/tentative_orders/2412/12_uncon_npdes/12a_forestmeadows/03_forestmeadows_noph.pdf
+https://www.waterboards.ca.gov/centralvalley/board_decisions/tentative_orders/2412/12_uncon_npdes/12a_forestmeadows/",Pacific Gas & Electric Company,37.70,38.161695125,-120.416982951
+San Bernardino Municipal Water Department (SBMWD) Water Reclamation Plant,True,"https://www.sbmwd.org/168/Water-Reclamation-Plant
+https://www.waterboards.ca.gov/santaana/board_decisions/adopted_orders/orders/2008/08_035_sbmwd_wdr.pdf",Southern California Edison,26.48,34.071128912,-117.287832026
+Shasta County Service Area No. 17 – Cottonwood Wastewater Treatment Plant,False,"https://ceqanet.lci.ca.gov/2002082100
+https://www.waterboards.ca.gov/centralvalley/board_decisions/tentative_orders/2404/11_uncon_npdes/11g_shastaco/cottonwood_rtc.pdf",Pacific Gas & Electric Company,37.70,40.386975162,-122.270263529
+City of Imperial Wastewater Treatment Plant,False,"https://holtvilletribune.com/2021/10/19/imperials-21m-sewer-plant-goes-online/  
+https://www.aquaeng.com/imperial-county.html",Imperial Irrigation District,18.11,32.85371486,-115.56387163
+City of Grass Valley Wastewater Treatment Plant,False,"https://www.grassvalleyca.gov/post/water-wastewater-systems
+https://www.grassvalleyca.gov/sites/main/files/file-attachments/ch6_publicfacilitiesandservices_0.pdf",Pacific Gas & Electric Company,37.70,39.205283165,-121.068069183
+Rio Alto Water District Lake California Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/
+https://stephenselectricalinc.com/projects/industrial/",Pacific Gas & Electric Company,37.70,40.354945165,-122.213253516
+City of Rio Vista Beach Wastewater Treatment Facility,False,"https://www.waterboards.ca.gov/rwqcb5/board_decisions/adopted_orders/solano/r5-2024-0054_npdes.pdf
+https://www.riovistacity.com/publicworks/page/beach-wastewater-treatment-plant",Not Applicable,,38.145263564,-121.695445959
+City of Alameda Sewer Collection System,False,"https://www.ebmud.com/wastewater/collection-treatment
+https://19january2017snapshot.epa.gov/www3/region9/water/npdes/pdf/ca/ebmud/Alameda-CS-checklist-SAIC-Insp.pdf",Alameda Power & Telecom,,37.777674958,-122.253343191
+City of Calexico Water Pollution Control Facility,False,"https://www.waterboards.ca.gov/rwqcb7/board_decisions/adopted_orders/orders/2021/2021_0028calexico_wdr.pdf
+https://www.calexico.ca.gov/departments/public-works/wastewater",Imperial Irrigation District,18.11,32.664454836,-115.559716616
+"University of California, Davis (UC Davis) Wastewater Treatment Plant",False,https://facilities.ucdavis.edu/utilities-operations/campus-infrastructure-services,Pacific Gas & Electric Company,37.70,38.533204056,-121.756863205
+City of Merced Wastewater Treatment Facility,True,https://www.cityofmerced.gov/utilities-services/water/wastewater-treatment-plants,Merced Irrigation District,18.95,37.252711034,-120.524895865
+Heritage Ranch Community Services District Wastewater Treatment Facility,False,"https://www.heritageranchcsd.ca.gov/water-resource-recovery-facility
+https://www.waterboards.ca.gov/centralcoast/board_decisions/adopted_orders/",Pacific Gas & Electric Company,37.70,35.721174869,-120.884642763
+Nevada City Wastewater Treatment Plant,False,"https://www.nevadacityca.gov/257/Water-Wastewater
+https://www.nevada.courts.ca.gov/system/files/0405-cig-nevadacitywastewater.pdf",Pacific Gas & Electric Company,37.70,39.259755172,-121.030763184
+The City Of Morro Bay/Cayucos Sanitary District Wastewater Treatment Plant,True,"https://www.waterboards.ca.gov/centralcoast/board_decisions/adopted_orders/2008/2008_0065_Morro%20Bay_Cayucos_NPDES_Permit.pdf
+https://www.mknassociates.us/featured-projects/morro-baycayucos-major-maintenance-repair-project/",Pacific Gas & Electric Company,37.70,35.379989116,-120.860094696
+Fallbrook Wastewater Reclamation Plant And Santa Margarita GTP,True,"https://www.waterboards.ca.gov/sandiego/board_info/agendas/2006/apr/item7/suppdoc10.pdf
+https://www.fpud.com/wastewater-programs","San Diego Gas & Electric, Metropolitan Water District of So. Cal",,33.367904834,-117.257971966
+Donner Summit Public Utility District (PUD) Wastewater Treatment Plant,False,"https://www.donnersummitpud.com/wastewater-treatment-plant
+https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/placer/r5-2014-0136.pdf",Pacific Gas & Electric Company,37.70,39.325928848,-120.39339754
+San Juan Bautista Wastewater Treatment Plant,False,"https://ciwqs.waterboards.ca.gov/ciwqs/readOnly/CiwqsReportServlet?reportName=facilityAtAGlance&placeID=255337
+https://benitolink.com/san-juan-bautista-to-begin-18-million-wastewater-project/",Pacific Gas & Electric Company,37.70,36.849476927,-121.54498498
+City of Biggs Wastewater Treatment Facility,False,"https://www.biggs-ca.gov/City-Services/Utilities/Sewer/index.html
+https://ceqanet.lci.ca.gov/2013042029/3","Pacific Gas & Electric Company, Biggs Municipal Utilities",,39.40760513,-121.724213312
+Treasure Island Water Resource Recovery Facility (WRRFP),False,"https://www.sfpuc.gov/construction-contracts/construction-projects/treasure-island
+https://www.pcl.com/us/en/our-work/treasure-island-water-resource-recovery-facility",City and County of San Francisco - Hetch Hetchy Water and Power,,37.830238952,-122.370924214
+Mendocino Community Services District (MCSD) Wastewater Treatment Plant,False,"https://www.mendocinocsd.org/wastewater-treatment
+https://www.waterboards.ca.gov/northcoast/board_decisions/adopted_orders/pdf/2012/12_0020_MendocinoCSD_WDR.pdf",Pacific Gas & Electric Company,37.70,39.304974958,-123.806183608
+Heber Public Utility District (HPUD) Wastewater Treatment Plant,False,https://www.heber.ca.gov/wastewater-collection-treatment,Imperial Irrigation District,18.11,32.736434847,-115.525121615
+City of Modesto Wastewater Treatment Facilities,True,https://www.modestogov.com/1920/Primary-Treatment-Facility---Sutter,Modesto Irrigation District,17.42,37.613727206,-121.011790668
+Loleta Community Services District Wastewater Treatment Facility,False,https://www.waterboards.ca.gov/northcoast/board_decisions/adopted_orders/pdf/2020/20_0003_Loleta_TSO.pdf,Pacific Gas & Electric Company,37.70,40.638305015,-124.225543853
+East Bay Municipal Utility District (EBMUD) Main Wastewater Treatment Plant,True,"https://www.ebmud.com/download_file/47554/661
+https://www.ebmud.com/wastewater",Alameda Power & Telecom,,37.747444956,-122.236103185
+City of Patterson Water Quality Control Facility (WQCF),False,"https://pattersonca.gov/201/Water-Quality-Control-Facility
+https://www.waterboards.ca.gov/centralvalley/board_decisions/tentative_orders/2306/13_uncon_npdes/13e_patterson/r5-2018-0070-001.pdf",Turlock Irrigation District,14.27,37.498812016,-121.092968981
+City of Beaumont Wastewater Treatment Plant,False,"https://www.beaumontca.gov/1126/Wastewater
+https://www.aquaeng.com/beaumont-8203wastewater-treatment-facility-expansion.html",Southern California Edison,26.48,33.926250754,-116.992564224
+Healdsburg Wastewater Treatment and Reclamation Facility,False,"https://healdsburg.gov/444/Wastewater
+https://www.hometownconnections.com/news/unique-sewage-treatment-plant/","Pacific Gas & Electric Company, Power and Water Resource Pooling Authority",,38.584620897,-122.864297798
+City of St. Helena Wastewater Treatment and Reclamation Plant,False,https://www.waterboards.ca.gov/rwqcb2/board_info/agendas/2021/April/5a_final_to.pdf,Pacific Gas & Electric Company,37.70,38.500505002,-122.440874305
+City of Auburn Wastewater Treatment Plant,False,https://www.waterboards.ca.gov/rwqcb5/board_decisions/adopted_orders/rescissions/r5-2022-0054_rec.pdf,Pacific Gas & Electric Company,37.70,38.896005135,-121.115624151
+Carbon Canyon Water Recycling Facility (CCWRF),False,"https://www.ieua.org/carbon-canyon-water-recycling-facility/
+https://www.ieua.org/regional-water-recycling-plant-no-2/","Southern California Edison, Metropolitan Water District of So. Cal",,33.98165488,-117.693332088
+Lompoc Regional Wastewater Reclamation Plant,False,"https://www.cityoflompoc.com/government/departments/utilities/wastewater/faqs
+https://www.cityoflompoc.com/government/departments/utilities/wastewater",City of Lompoc Electric Division,21.94,34.661084791,-120.481362603
+Malibu Mesa Water Reclamation Plant,False,"https://www.waterboards.ca.gov/rwqcb4/board_decisions/tentative_orders/industrial/npdes/LACountyPW/Malibu%20Mesa%20WRP%20Public%20Notice%20for%20Posting%2010-5-12%20Final.pdf
+https://ceqanet.lci.ca.gov/2021040474/3","Southern California Edison, Metropolitan Water District of So. Cal",,34.035444829,-118.710002264
+Lake of the Pines Wastewater Treatment Plant,False,https://www.nidwater.com/lake-of-the-pines-treatment-plant,Pacific Gas & Electric Company,37.70,39.03447715,-121.080041163
+Pinole-Hercules Water Pollution Control Plant,True,"https://www.pinole.gov/wastewater-treatment-plant/wastewater-collection-treatment/
+https://www.herculesca.gov/government/engineering-public-works/sanitary-sewer/sewer-system-rates",Pacific Gas & Electric Company,37.70,38.009607975,-122.26670222
+New Cuyama Community Services District Wastewater Treatment Facility,False,"https://www.waterboards.ca.gov/centralcoast/board_decisions/adopted_orders/2012/r3-2012-0010_newcuyama_wwtf_wd_permit.pdf
+https://www.countyofsb.org/1614/New-Cuyama-Community-Services-District",Pacific Gas & Electric Company,37.70,34.953835742,-119.702164734
+Susanville Sanitary District Wastewater Treatment Plant,False,"https://susanvillesanitarydistrict.com/about_us.aspx
+https://klarifi.io/facilities/california/susanville-sd-wwtp-1400010889",Lassen Municipal Utility District,23.51,40.4143453,-120.629686277
+Copper Cove Wastewater Treatment Plant and Reclamation Facility,False,"https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/calaveras/r5-2010-0070-01.pdf
+https://www.waterboards.ca.gov/rwqcb5/board_decisions/adopted_orders/calaveras/r5-2018-0021.pdf",Pacific Gas & Electric Company,37.70,37.908385088,-120.616062953
+Mariposa Public Utility District (MPUD) Wastewater Treatment Facility,False,https://www.mariposapud.org/wastewater,Pacific Gas & Electric Company,37.70,37.479045096,-119.959852799
+City of Manteca Wastewater Quality Control Facility (WQCF),True,"https://www.manteca.gov/departments/public-works/waste-to-fuel-program
+https://www.bskassociates.com/manteca-digester-improvements/",Pacific Gas & Electric Company,37.70,37.79578303,-121.260652041
+Santa Paula Water Recycling Facility,False,https://spcity.org/248/Wastewater,Southern California Edison,26.48,34.335546914,-119.083219387
+Chester Wastewater Treatment Facility,False,"https://www.chesterpud.org/wastewater-services
+https://www.chesterpud.org/",Pacific Gas & Electric Company,37.70,40.299645242,-121.227123356
+Hale Avenue Resource Recovery Facility,True,"https://www.2g-energy.com/projects/hale-avenue-resource-reclamation-facility
+https://www.escondido.gov/194/Hale-Avenue-Resource-Recovery-Facility-H","San Diego Gas & Electric, Metropolitan Water District of So. Cal",,33.105944811,-117.114071921
+Lee Lake Water District Water Reclamation Facility,False,https://www.temescalvwd.com/,"Southern California Edison, Metropolitan Water District of So. Cal",,33.795035869,-117.49946904
+City of Exeter Wastewater Treatment Plant (WWTP),False,"https://cityofexeter.ca.gov/departments/public-works/wastewater-division/
+https://cityofexeter.ca.gov/wp-content/uploads/2019/10/Item1_2019_Water-Sewer_Rate_Increase_Information_PH_12-10-19-1.pdf","Southern California Edison, Eastside Power Authority",,36.274132034,-119.161790542
+City of Modesto Water Quality Control Facility (WQCF),True,"https://www.modestogov.com/1920/Primary-Treatment-Facility---Sutter
+https://www.waterboards.ca.gov/rwqcb5/board_decisions/adopted_orders/stanislaus/r5-2022-0034.pdf",Modesto Irrigation District,17.42,37.613727206,-121.011790668
+City of Corning Wastewater Treatment Plant,False,https://www.corning.org/waste-water/,Pacific Gas & Electric Company,37.70,39.916116139,-122.104457438
+Dry Creek Rancheria Wastewater Treatment Plant,False,"https://www.epa.gov/npdes-permits/CA0005241
+https://drycreekrancheria.com/environment/","Pacific Gas & Electric Company, Power and Water Resource Pooling Authority",,38.695954986,-122.858263391
+Portola Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/plumas/r5-2018-0088.pdf
+https://www.waterboards.ca.gov/centralvalley/board_decisions/tentative_orders/2404/11_uncon_npdes/11d_cityofportola/portola_wwtp_noph.pdf",Not Applicable,,39.805485263,-120.471503168
+El Dorado Hills Wastewater Treatment Plant,False,"https://www.eid.org/about-us/wastewater
+https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/orders/r5-2016-0004-01.pdf",Pacific Gas & Electric Company,37.70,38.635975118,-121.06137311
+City of Vacaville Easterly Wastewater Treatment Plant,True,"https://storymaps.arcgis.com/stories/443fcdb602ae439fb0108ed074dde796
+https://www.cityofvacaville.gov/government/utilities/sewer/wastewater-treatment",Southern California Edison,26.48,34.243081143,-117.278018299
+City of Brentwood Wastewater Treatment Plant,False,https://www.brentwoodca.gov/government/public-works/sewer-wastewater,Pacific Gas & Electric Company,37.70,37.958115014,-121.686667885
+Laguna Treatment Plant,True,"https://www.srcity.org/1052/Water-Reuse
+https://www.srcity.org/1056/Treatment-Process",Southern California Edison,26.48,33.533171856,-117.189344967
+City of Livermore Water Reclamation Plant,True,"https://www.livermoreca.gov/departments/public-works/water-resources/wastewater-service/livermore-water-reclamation-plant
+https://www.livermoreca.gov/departments/community-development/engineering/captial-improvement-plan-projects/wastewater-projects",Pacific Gas & Electric Company,37.70,37.689448982,-121.807513113
+City of West Sacramento Wastewater Treatment / Collection System,False,"https://www.waterboards.ca.gov/press_room/press_releases/2023/pr05192023-swb-regional-san.html
+https://www.sacsewer.com/",Pacific Gas & Electric Company,37.70,38.562505076,-121.523624173
+City of Mountain House Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/san_joaquin/r5-2023-0033-01.pdf
+https://percwater.com/project/mountain-house/","Modesto Irrigation District, Power and Water Resource Pooling Authority",,37.780345011,-121.517803079
+City of Holtville Municipal Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/coloradoriver/board_decisions/adopted_orders/orders/2009/0016holtville.pdf
+https://www.waterboards.ca.gov/rwqcb7/board_decisions/adopted_orders/orders/1995/95_043.pdf",Imperial Irrigation District,18.11,32.825739554,-115.429760374
+Coachella Sanitary District Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/coloradoriver/board_decisions/adopted_orders/orders/2020/0008coachella_sanitary_district_npdes.pdf
+https://www.coachella.org/departments/public-works-department/sanitation-division",Imperial Irrigation District,18.11,33.656159927,-116.144459793
+Novato Sanitary District Wastewater Treatment Plant,True,"https://novatosan.com/services/advanced-wastewater-treatment/
+https://novatosan.com/about/100-years-of-service/",Pacific Gas & Electric Company,37.70,38.100304961,-122.554413274
+Sheridan Wastewater Treatment Plant,False,"https://www.placer.ca.gov/DocumentCenter/View/2578/Volume-7---Placer-CSA-28---Zone-6--Sheridan-PDF
+https://ciwqs.waterboards.ca.gov/ciwqs/readOnly/PublicAttachmentRetriever?parentID=1403616&attachmentID=251043&attType=4",Pacific Gas & Electric Company,37.70,38.980025124,-121.372073202
+Donald C. Tillman Water Reclamation Plant,False,"https://sanitation.lacity.gov/facilities/donald-c-tillman-water-reclamation-plant
+https://thejapanesegarden.com/about-us/the-tillman-plant/","Los Angeles Department of Water & Power, Metropolitan Water District of So. Cal",,34.180094857,-118.482732238
+Big Basin Redwoods State Park Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/centralcoast/board_info/agendas/2011/december/Item_18/18_stfrpt.pdf
+https://ceqanet.lci.ca.gov/2004028369",Pacific Gas & Electric Company,37.70,37.171955487,-122.222063347
+ City of Rio Dell Wastewater Treatment Facility ,False,"https://www.cityofriodell.ca.gov/263/How-It-Works
+https://www.waterboards.ca.gov/northcoast/board_info/board_meetings/10_2023/pdf/2/2023_22_riodell_permit_final.pdf",Pacific Gas & Electric Company,37.70,40.497525017,-124.095574117
+Imperial County Gateway of the Americas County Service Area (CSA) Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/rwqcb7/board_decisions/adopted_orders/orders/2014/2014_0015gateway_final_wdr.pdf
+https://www.waterboards.ca.gov/rwqcb7/board_decisions/adopted_orders/orders/2003/03_01basis.pdf",Imperial Irrigation District,18.11,32.792921852,-115.560789625
+Lake Wildwood Wastewater Treatment Plant,False,"https://www.nevadacountyca.gov/DocumentCenter/View/44405/Lake-Wildwood-FAQ-06-22-2022
+https://nevadacountyca.gov/Calendar.aspx?EID=15409",Pacific Gas & Electric Company,37.70,39.234783156,-121.218680211
+City of San Mateo Wastewater Treatment Plant,True,"https://www.cityofsanmateo.org/DocumentView.aspx?DID=85
+https://cleanwaterprogramsanmateo.org/wp-content/uploads/2017/05/SM_FINAL_Wastewater_Basics_Presentation_v3.pdf",Pacific Gas & Electric Company,37.70,37.568504937,-122.294853173
+South County Regional Wastewater Authority (SCRWA) Plant,True,"https://www.scrwa.org/
+https://www.cwea.org/news/award-winners/south-county-regional-wastewater-authority-jacobs/","Pacific Gas & Electric Company, Power and Water Resource Pooling Authority",,36.986851604,-121.538837755
+City of Lincoln Wastewater Treatment Plant,False,https://www.lincolnca.gov/living-here/wastewater/,Pacific Gas & Electric Company,37.70,38.866795472,-121.349357089
+Western Municipal Water District (WMWD) / Elsinore Valley Municipal Water District (EVMWD) Regional Recycled Water Distribution and Discharge System,False,https://westernwaterca.gov/179/Recycled-Water,"Southern California Edison, Metropolitan Water District of So. Cal",,33.679725803,-117.328824081
+Industrial Waste Treatment Facility,Insufficient,"https://cleanla.lacounty.gov/industrial-waste/
+https://www.waterboards.ca.gov/",Pacific Gas & Electric Company,37.70,38.391365032,-121.933733215
+City of Woodland Water Pollution Control Facility,False,https://www.cityofwoodland.gov/743/Treatment-Process,Pacific Gas & Electric Company,37.70,38.662155071,-121.714083215
+City of Salinas Industrial Waste Treatment Facility (IWTF),False,"https://www.salinas.gov/City-Hall/Departments/Public-Works/PW-Maintenance-Services/Environmental-Maintenance-Services/Industrial-Waste-Facility
+https://www.waterboards.ca.gov/centralcoast/board_info/agendas/2024/dec/Item11_stfrpt.pdf",Pacific Gas & Electric Company,37.70,36.667157903,-121.656040978
+City of Folsom Wastewater Treatment Plant,False,"https://www.folsom.ca.us/government/public-works/utilities/wastewater
+https://www.regionalsan.com/about-us",Sacramento Municipal Utility District,16.62,38.681663114,-121.163009132
+Goleta Sanitary District Water Resource Recovery Facility,True,https://www.goletasanitary.org/about-us,Southern California Edison,26.48,34.424615804,-119.83609548
+City of Tulelake Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/siskiyou/r5-2017-0099.pdf
+https://ci.tulelake.ca.us/departments/public-works/",PacifiCorp,19.26,41.950925347,-121.471613642
+Sausalito-Marin City Sanitary District (SMCSD) Wastewater Treatment Plant,True,https://sausalitomarincitysanitarydistrict.com/customer-information/capital-projects-new/projects-under-construction-or-in-final-design/,Pacific Gas & Electric Company,37.70,37.843310946,-122.477513232
+City of Newman Wastewater Treatment and Reclamation Facility,False,"https://cityofnewman.gov/
+https://ceqanet.lci.ca.gov/2015052076/6",Pacific Gas & Electric Company,37.70,37.337343314,-120.986702799
+El Dorado Irrigation District (EID) Deer Creek Wastewater Treatment Plant,False,"https://www.eid.org/about-us/project-updates/solar-arrays-deer-creek-and-el-dorado-hills
+https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/el_dorado/5-01-146.pdf",Pacific Gas & Electric Company,37.70,38.627783123,-120.984180097
+City of Colton Water Reclamation Facility,True,"https://www.coltonca.gov/653/Wastewater-Information
+https://www.coltonca.gov/AgendaCenter/ViewFile/Agenda/_08092021-1100",Colton Electric Utility Department,24.86,34.050601315,-117.333094441
+City of Willits Wastewater Treatment Plant,False,"https://cityofwillits.org/145/Wastewater
+https://ceqanet.lci.ca.gov/2001032016",Pacific Gas & Electric Company,37.70,39.420561002,-123.340013556
+McKinleyville Wastewater Management Facility,False,"https://www.mckinleyvillecsd.ca.gov/wastewater-management-facility
+https://www.mckinleyvillecsd.ca.gov/files/b83347460/2023+WWMF+Annual+Report.pdf",Pacific Gas & Electric Company,37.70,40.941757494,-124.123606537
+City of Shasta Lake Wastewater Treatment Facility,False,"https://www.waterboards.ca.gov/centralvalley/board_decisions/tentative_orders/2012/09_uncon_npdes/shasta_npdes_buff.pdf
+https://www.waterboards.ca.gov/centralvalley/board_decisions/tentative_orders/2012/09_uncon_npdes/shasta_noph.pdf",City of Shasta Lake,,40.663005174,-122.383360377
+City of Lincoln Wastewater Treatment and Reclamation Facility,False,"https://ceqanet.lci.ca.gov/1998122071/2
+https://todb.ca.gov/files/83a64c7a7/2018-07-18_agenda_packet.pdf
+https://www.liswa-ca.gov/frequently-asked-questions/",Pacific Gas & Electric Company,37.70,38.866795472,-121.349357089
+Imperial Valley College Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/rwqcb7/board_decisions/adopted_orders/orders/2025/ivc-adopted-wdr-final.pdf
+https://www.waterboards.ca.gov/coloradoriver/board_decisions/adopted_orders/orders/2013/0018ivc_wdr.pdf",Imperial Irrigation District,18.11,32.82922486,-115.505571618
+Town of Discovery Bay Wastewater Treatment Facilities (Plant 1 and Plant 2),False,"https://todb.ca.gov/wastewater-services
+https://todb.ca.gov/files/f0a97ecd2/July+6%2C+2022+Regular+Water+and+Wastewater+Agenda+Packet.pdf",Pacific Gas & Electric Company,37.70,37.894727015,-121.587235103
+City of Westmorland Wastewater Treatment Plant,False,https://www.waterboards.ca.gov/rwqcb7/board_decisions/adopted_orders/orders/2011/0045acl.pdf,Imperial Irrigation District,18.11,33.032289305,-115.630149032
+North City Water Reclamation Plant,False,"https://www.sandiego.gov/public-utilities/sustainability/pure-water-sd/phase-1-projects/university-city-eastgate-mall/north-city-water-reclamation-plant-equalization-basin
+https://www.parsons.com/project/san-dev-pure-water-construction-management-program-san-diego-ca/","San Diego Gas & Electric, Metropolitan Water District of So. Cal",,32.915604788,-117.094711904
+Covelo Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/northcoast/board_decisions/adopted_orders/pdf/2023/23_0006_covelo_csd.pdf
+https://www.waterboards.ca.gov/northcoast/board_decisions/adopted_orders/pdf/r1-2000-16-wdr-covelo.pdf",Pacific Gas & Electric Company,37.70,39.786707128,-123.246964657
+Port Costa Wastewater Treatment Plant,False,https://contracostasda.specialdistrict.org/crockett-community-services-district,Pacific Gas & Electric Company,37.70,38.045084984,-122.187883212
+Calera Creek Water Recycling Plant,False,"https://www.cityofpacifica.org/departments/public-works/wastewater-treatment/calera-creek-water-recycling
+https://owen.mycwea.org/conf-ac",Pacific Gas & Electric Company,37.70,37.632162927,-122.49165421
+Terminal Island Water Reclamation Plant,True,https://sanitation.lacity.gov/facilities/terminal-island-water-reclamation-plant,"Los Angeles Department of Water & Power, Metropolitan Water District of So. Cal",,33.745621821,-118.261330165
+Saugus Water Reclamation Plant,False,https://www.lacsd.org/services/wastewater-sewage/facilities/saugus-water-reclamation-plant,Southern California Edison,26.48,34.412709878,-118.539277267
+Vallejo Flood and Wastewater District Ryder Street Treatment Plant,False,"https://www.vallejowastewater.org/193/Treatment
+https://www.vallejowastewater.org/237/Biosolids",Pacific Gas & Electric Company,37.70,38.091701907,-122.250311689
+Niland Sanitary District Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/rwqcb7/board_decisions/adopted_orders/orders/2005/05_0030niland.pdf
+https://www.imperialcagov.us/Data/Sites/1/media/county-documents/departments/planning/general-plan/elements/conservation-element.pdf",Imperial Irrigation District,18.11,33.227353854,-115.528580633
+Red Bluff Wastewater Treatment Plant,False,"https://www.cityofredbluff.org/departments/public_works/wastewater_treatment_plant.php
+https://www.waterboards.ca.gov/rwqcb5/board_decisions/adopted_orders/amador/r5-2015-0129.pdf",Pacific Gas & Electric Company,37.70,40.162280149,-122.22139149
+City of Brawley Wastewater Treatment Plant,False,https://www.brawley-ca.gov/departments/public-works/wastewater-treatment-plant,Imperial Irrigation District,18.11,33.017364883,-115.509241632
+City of Burbank Water Reclamation Plant (BWRP),False,"https://www.burbankca.gov/web/public-works/water-reclamation-plant
+https://www.waterboards.ca.gov/rwqcb4/board_decisions/adopted_orders/orders_id.html?query=Burbank","Burbank Water & Power, Metropolitan Water District of So. Cal",,34.182226866,-118.31806821
+Simi Valley Water Quality Control Plant,False,"https://www.simivalley.org/departments/public-works/sanitation-services
+https://www.simivalley.org/departments/public-works/sanitation-services/operations-collections-treatment","Southern California Edison, Metropolitan Water District of So. Cal",,34.285832175,-118.81518279
+College of the Redwoods Wastewater Treatment Facility,False,https://www.waterboards.ca.gov/northcoast/board_decisions/adopted_orders/pdf/2016/161215_0043_College_of_the_Redwoods_CDO.pdf,Pacific Gas & Electric Company,37.70,40.705045022,-124.207843861
+Henry N. Wochholz Regional Water Reclamation Facility (WRWRF),False,"https://cms9files1.revize.com/yucaipavwd/Services/sewer/Henry%20N.%20Wochholz%20Regional%20Water%20Reclamation%20Facility.pdf
+https://files.ceqanet.lci.ca.gov/269405-1/attachment/rYoj5ousHGCK9CRYDeUNLey6AXQvX6ZMdvxd4YM6CGpvjFdXAjtXcdo86_UBi_Z984Ia62nyrE3k1m-P0",Southern California Edison,26.48,34.003984917,-117.063120982
+McCabe Union School District Wastewater Treatment Plant,False,https://www.waterboards.ca.gov/rwqcb7/board_decisions/adopted_orders/orders/2007/07_0035mccabe.pdf,Imperial Irrigation District,18.11,32.752474846,-115.594961628
+Cascade Shores Wastewater Treatment Plant,False,"https://www.nevadacountyca.gov/2704/Sanitation-Districts
+https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/nevada/r5-2015-0010.pdf",Pacific Gas & Electric Company,37.70,39.259945183,-120.906833165
+City of Williams Wastewater Treatment Facility,False,https://waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/colusa/r5-2024-0510_settle.pdf,"Pacific Gas & Electric Company, Power and Water Resource Pooling Authority",,39.157944439,-122.1525726
+Ray Stoyer Water Recycling Facility,False,"https://padredam.org/130/Water-Recycling-Facility
+https://www.waternewsnetwork.com/pioneering-water-recycling-facility-decommissioned-half-century-service/","San Diego Gas & Electric, Metropolitan Water District of So. Cal",,32.841604786,-116.961211876
+Whittier Narrows Water Reclamation Plant,False,https://www.lacsd.org/services/wastewater-sewage/facilities/whittier-narrows-water-reclamation-plant,"Southern California Edison, Metropolitan Water District of So. Cal",,34.030204864,-118.067112156
+Ellis Creek Water Recycling Facility (operated by the City of Petaluma),False,"https://cityofpetaluma.org/elliscreek/
+https://www.waterboards.ca.gov/sanfranciscobay/board_decisions/adopted_orders/2021/R2-2021-0008.pdf","Pacific Gas & Electric Company, Power and Water Resource Pooling Authority",,38.226833366,-122.58684268
+City of Angels Wastewater Treatment Plant,False,"https://angelscamp.gov/public-works/
+https://www.waterboards.ca.gov/centralvalley/board_decisions/tentative_orders/2206/15_npdes/15b_cityofangels/angels_cov.pdf",Pacific Gas & Electric Company,37.70,38.060365106,-120.539972959
+Mineral Sanitation District Wastewater Treatment Plant,False,"https://tcpw.ca.gov/departments/mineral-sanitation-district/
+https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/orders/r5-2015-0073.pdf",Pacific Gas & Electric Company,37.70,40.348338212,-121.623624425
+Buena Vista Rancheria / Buena Vue Casino Wastewater Treatment Plant,False,"https://19january2021snapshot.epa.gov/npdes-permits/buena-vista-rancheria-buena-vue-casino-wastewater-treatment-plant-ione-ca-ca0049675_.html
+https://aqualitywm.com/project/harrahs-northern-california-casino/",Pacific Gas & Electric Company,37.70,38.273185099,-120.910833043
+Sonoma Valley County Sanitation District (SVCSD) Wastewater Treatment Plant,False,"https://www.sonomawater.org/svcsd
+https://www.waterboards.ca.gov/northcoast/board_decisions/adopted_orders/pdf/2012/12_0068_SVCSD_WDR.pdf","Pacific Gas & Electric Company, Power and Water Resource Pooling Authority",,38.251887981,-122.441317275
+Rio Cosumnes Correctional Center Wastewater Treatment Facility,False,"https://www.sacsewer.com/annual-report/2025/
+https://www.spk.usace.army.mil/Portals/12/documents/regulatory/Delta%20Conveyance%20Project/2024-0029957-S7-001%20Delta%20Conveyance%20Project%20BiOp.pdf",Sacramento Municipal Utility District,16.62,38.469885076,-121.418743146
+Carpinteria Sanitary District Wastewater Treatment Plant,False,"https://carpsan.com/services/wastewater-treatment/
+https://carpsan.com/about-csd/history/",Southern California Edison,26.48,34.39317282,-119.515862425
+City of Pismo Beach Wastewater Treatment Plant (WWTP),False,"https://www.pismobeach.org/DocumentCenter/View/54438/City-of-Pismo-Beach---Draft-Facilities-Element-082621-
+https://www.centralcoastblue.com/about",Pacific Gas & Electric Company,37.70,35.141719125,-120.632882356
+San Andreas Sanitary District Wastewater Treatment Plant,False,"https://sasanitary.org/2020-wastewater-plant-treatment-upgrade
+https://sasanitary.org/virtual-plant-tour",Pacific Gas & Electric Company,37.70,38.203005109,-120.689062999
+United Auburn Indian Community / Thunder Valley Casino Resort Wastewater Treatment Facility,False,"https://thundervalleyresort.com
+https://www.waterboards.ca.gov/centralvalley/",Pacific Gas & Electric Company,37.70,38.839065116,-121.311743175
+City of Calipatria Wastewater Treatment Plant,False,"https://www.waterboards.ca.gov/rwqcb7/board_decisions/adopted_orders/orders/2012/0030calipatria.pdf
+https://www.calipatria.com/departments/public-works",Imperial Irrigation District,18.11,33.147536519,-115.545341378
+Camarillo Wastewater Reclamation Plant,True,"https://www.waterboards.ca.gov/losangeles/board_decisions/tentative_orders/individual/npdes/camarillo/2008_0813/camarillo_revised_tso.pdf
+https://www.thecamarilloacorn.com/articles/no-time-to-waste-with-citys-treatment-plant/","Southern California Edison, Metropolitan Water District of So. Cal",,34.194532828,-119.002679325
+City of Watsonville Wastewater Treatment Facility,True,"https://www.cityofwatsonville.org/623/Wastewater-Division
+https://www.epa.gov/chp/california-combined-heat-and-power-project-builder",Pacific Gas & Electric Company,37.70,36.889974915,-121.788163021
+City of San Luis Obispo Water Resource Recovery Facility,True,"https://www.slocity.org/government/department-directory/utilities-department/wastewater/water-resource-recovery-facility
+https://www.2g-energy.com/applications/wastewater-treatment-plants",Pacific Gas & Electric Company,37.70,35.256154838,-120.672922686
+Fillmore Water Recycling Plant,False,"https://www.waterboards.ca.gov/rwqcb4/board_decisions/tentative_orders/individual/non-npdes/Fillmore_Water_Recycling_Plant/3_fillmore_revised_tentative_order.pdf
+https://aecom.com/projects/fillmore-water-recycling-plant/",Southern California Edison,26.48,34.391204854,-118.926312329
+Lincoln-Sewer Maintenance District 1 Wastewater Authority (LiSWA) Wastewater Treatment Facility,False,"https://www.liswa-ca.gov/
+https://www.lincolnca.gov/living-here/wastewater/lincoln-sewer-maintenance-district-1-wastewater-authority-liswa/",Pacific Gas & Electric Company,37.70,38.964755142,-121.107652159
+Turlock Regional Water Quality Control Facility,True,"https://ci.turlock.ca.us/watersewergarbageservice/sewerwastewater/wastewaterplanttours/
+https://www.overaa.com/projects/turlock-water-quality-control-facility/",Turlock Irrigation District,14.27,37.482644031,-120.867373944
+Malaga County Water District Wastewater Treatment Facility,False,"https://www.waterboards.ca.gov/rwqcb5/board_decisions/adopted_orders/fresno/r5-2020-0001_wdr.pdf
+https://www.waterboards.ca.gov/public_notices/petitions/water_quality/docs/petitions/a2356petitionpart3.pdf",Pacific Gas & Electric Company,37.70,36.678674123,-119.745699757
+Paradise Cove Wastewater Treatment Plant,False,"https://www.sani5.org/paradise-cove-wastewater-treatment-plant
+https://www.sani5.org/wastewater-treatment-plant-information",Pacific Gas & Electric Company,37.70,37.895994951,-122.469153237
+Big Bear Area Regional Wastewater Agency (BBARWA),False,"https://www.bbarwa.org/operations
+https://bbarwa.specialdistrict.org/advanced-water-purification-process",Bear Valley Electric Service,29.12,34.265628839,-116.81499094
+San Joaquin County Service Area No. 31 (Flag City) Wastewater Treatment Plant,False,"https://www.sjgov.org/department/pwk/special-districts-home/csa/county-service-area-31
+https://records.lodi.gov/WebLink/DocView.aspx?id=10108&dbid=0&repo=CITY-RECORDS",Pacific Gas & Electric Company,37.70,37.954906661,-121.288483854
