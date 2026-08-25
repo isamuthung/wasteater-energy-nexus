@@ -1,6 +1,6 @@
 {
   "kind": "storymap",
-  "generatedAt": "2026-08-25T19:03:10.149Z",
+  "generatedAt": "2026-08-25T19:15:30.117Z",
   "generator": "spatial-intelligence-static-export",
   "storymap": {
     "document": {
@@ -43,7 +43,7 @@
           "embedRef": null,
           "media": {
             "alt": "Wastewater Treatment plant",
-            "url": "https://live.staticflickr.com/4808/45098457715_a540306883_b.jpg",
+            "url": "media/fig-1.jpg",
             "source": "stock",
             "stockId": "32719968-3df6-4f06-98a3-ed6395460dea",
             "stockLabel": "Wastewater Treatment plant",
@@ -416,7 +416,7 @@
           "embedRef": null,
           "media": {
             "alt": "Screenshot from p. 12",
-            "url": "",
+            "url": "media/fig-2.png",
             "fileId": "upl-78b059f9",
             "source": "upload",
             "caption": "Screenshot from p. 12"
@@ -747,7 +747,7 @@
                 ],
                 "pointSizePreset": 2
               },
-              "capturedAt": "2026-08-25T19:03:10.141Z",
+              "capturedAt": "2026-08-25T19:15:30.104Z",
               "kind": "map",
               "blockId": "mb-2ebucmbz",
               "title": "Basic Analysis Map 2"
@@ -976,7 +976,7 @@
           "embedRef": null,
           "media": {
             "alt": "Screenshot from p. 2",
-            "url": "",
+            "url": "media/fig-3.png",
             "fileId": "upl-e170d7ab",
             "source": "upload",
             "caption": "Screenshot from p. 2"
@@ -1239,7 +1239,7 @@
           "title": "",
           "titleVisible": false,
           "bodyVisible": true,
-          "body": "The results of this preliminary analysis revealed a striking truth: the majority of wastewater treatment plants within California aren't equipped with anaerobic digesters to make them eligable to even consider upgrading to a CHP system.\nFrom the 254 facilities I identified as not having CHP,  54 of them indicated from web searches that they had anaerobic digesters. Another 195 facilities were too either too small to warrent that system, had other non-digestion solids management solutions, or didn't process solids on-site and so they sent it to bigger regional facilities that could process them. 5 of them were inconclusive. This map to the right displays the locations of each facility with cleaned names, and with metadata about the sources used to find this informatino out when you click on each point. Futhermore, the results of the electrical rate geospatial analsyis is also in the data, however many facilites were situated in locations with overlapping electric service territories, so those remain inconclusive. ",
+          "body": "The results of this preliminary analysis revealed a striking truth: the majority of wastewater treatment plants within California aren't equipped with anaerobic digesters to make them eligable to even consider upgrading to a CHP system.\nFrom the 254 facilities I identified as not having CHP,  54 of them indicated from web searches that they had anaerobic digesters. Another 195 facilities were too either too small to warrent that system, had other non-digestion solids management solutions, or didn't process solids on-site and so they sent it to bigger regional facilities that could process them. 5 of them were inconclusive. This map to the right displays the locations of each facility with cleaned names, and with metadata about the sources used to find this informatino out when you click on each point. Futhermore, the results of the electrical rate geospatial analsyis is also in the data, however many facilites were situated in locations with overlapping electric service territories, so those remain inconclusive. \n",
           "embedRef": null,
           "media": null,
           "figure": null,
@@ -1402,7 +1402,7 @@
                 ],
                 "pointSizePreset": 2
               },
-              "capturedAt": "2026-08-25T19:03:10.141Z",
+              "capturedAt": "2026-08-25T19:15:30.104Z",
               "kind": "map",
               "blockId": "mb-3ae73zc7",
               "title": "Facilities Without CHP System"
@@ -1830,7 +1830,7 @@
       ]
     },
     "board": {
-      "capturedAt": "2026-08-25T19:03:10.141Z",
+      "capturedAt": "2026-08-25T19:15:30.104Z",
       "maps": [
         {
           "id": "mb-2ebucmbz",
@@ -230839,7 +230839,7 @@
       "inset": "clamp(1rem, 5vw, 1.5in)",
       "pageMax": "1280px",
       "coverMinHeight": "max(680px, 100svh)",
-      "typeScale": 1.1666666666666667,
+      "typeScale": 1,
       "vars": {
         "bg": "#f3f5f7",
         "ink": "#15202b",
@@ -230851,9 +230851,9 @@
         "coverScrim": "#0c2436",
         "displayFont": "Georgia, 'Times New Roman', serif",
         "bodyFont": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-        "headingSize": "17.5pt",
-        "bodySize": "14pt",
-        "creditsSize": "11.7pt"
+        "headingSize": "15pt",
+        "bodySize": "12pt",
+        "creditsSize": "10pt"
       },
       "cover": {
         "layout": "full-bleed",
@@ -230881,28 +230881,28 @@
         "subtitle": "",
         "titleFace": {
           "font-family": "Georgia, 'Times New Roman', serif",
-          "font-size": "34.3pt",
+          "font-size": "29.4pt",
           "font-weight": "600",
           "line-height": "1.12"
         },
         "subtitleFace": {
           "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-          "font-size": "14pt",
+          "font-size": "12pt",
           "text-align": "center"
         },
         "authorFace": {
           "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-          "font-size": "12.8pt",
+          "font-size": "11pt",
           "font-weight": "500",
           "text-align": "center"
         },
         "dateFace": {
           "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-          "font-size": "12.8pt",
+          "font-size": "11pt",
           "font-weight": "500",
           "text-align": "center"
         },
-        "mediaUrl": "https://live.staticflickr.com/4808/45098457715_a540306883_b.jpg",
+        "mediaUrl": "media/fig-1.jpg",
         "hasMap": false,
         "showTitlePanel": true,
         "onPhoto": true
@@ -230911,33 +230911,33 @@
         "blk-vj1xtmcp": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "14pt",
+            "font-size": "12pt",
             "line-height": "1.625"
           }
         },
         "blk-c6dqxfr2": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "14pt",
+            "font-size": "12pt",
             "line-height": "1.625"
           }
         },
         "blk-qh1mbls3": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           }
@@ -230945,33 +230945,33 @@
         "blk-vlpycz4v": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "14pt",
+            "font-size": "12pt",
             "line-height": "1.625"
           }
         },
         "blk-zov7gj8p": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "14pt",
+            "font-size": "12pt",
             "line-height": "1.625"
           }
         },
         "blk-kdwxdce5": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           }
@@ -230979,33 +230979,33 @@
         "blk-7u2weeei": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "14pt",
+            "font-size": "12pt",
             "line-height": "1.625"
           }
         },
         "blk-tu8c40vk": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "14pt",
+            "font-size": "12pt",
             "line-height": "1.625"
           }
         },
         "blk-8yi3pzz9": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           }
@@ -231013,21 +231013,21 @@
         "blk-uf4ry6pu": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "text-align": "center",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "14pt",
+            "font-size": "12pt",
             "line-height": "1.625"
           }
         },
         "blk-n3enkqju": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           }
@@ -231035,59 +231035,59 @@
         "blk-v3amza83": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "14pt",
+            "font-size": "12pt",
             "line-height": "1.625"
           }
         },
         "blk-ouvvkiv3": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "14pt",
+            "font-size": "12pt",
             "line-height": "1.625"
           }
         },
         "blk-wkxf00a6": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "14pt",
+            "font-size": "12pt",
             "line-height": "1.625"
           }
         },
         "blk-2d5hjfv5": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "14pt",
+            "font-size": "12pt",
             "line-height": "1.625"
           }
         },
         "blk-4e3hcjd9": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           }
@@ -231095,52 +231095,52 @@
         "blk-31ydet46": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "14pt",
+            "font-size": "12pt",
             "line-height": "1.625"
           }
         },
         "blk-qz0e0mvj": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "14pt",
+            "font-size": "12pt",
             "line-height": "1.625"
           }
         },
         "blk-ij2onj7i": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "14pt",
+            "font-size": "12pt",
             "line-height": "1.625"
           }
         },
         "blk-z02je8oe": {
           "title": {
             "font-family": "Georgia, 'Times New Roman', serif",
-            "font-size": "17.5pt",
+            "font-size": "15pt",
             "font-weight": "600",
             "line-height": "1.25"
           },
           "body": {
             "font-family": "var(--font-inter), 'Inter', 'Segoe UI', system-ui, sans-serif",
-            "font-size": "11.7pt",
+            "font-size": "10pt",
             "line-height": "1.625"
           }
         }
