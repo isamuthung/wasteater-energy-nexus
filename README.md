@@ -12,7 +12,7 @@ This folder is a snapshot of a Storymap Preview — the finished narrative, maps
 
 ## Maps
 
-Basemaps are free public tiles (© OpenStreetMap contributors © CARTO © Esri). There is no MapTiler or Mapbox key in this zip. You can later point `index.html` at your own tile service if you want.
+Basemaps are free public tiles (© OpenFreeMap · © OpenStreetMap · Terrain/satellite © Esri). There is no MapTiler or Mapbox key in this zip. You can later point `index.html` at your own tile service if you want.
 
 ## What is not included
 

@@ -1,6 +1,6 @@
 {
   "kind": "storymap",
-  "generatedAt": "2026-08-25T20:00:20.378Z",
+  "generatedAt": "2026-08-31T22:53:11.980Z",
   "generator": "spatial-intelligence-static-export",
   "storymap": {
     "document": {
@@ -8,8 +8,8 @@
       "title": "Identifying Wastewater Treatment Facilities in California That \nCould Upgrade to Combined \nHeat & Power Systems",
       "subtitle": "",
       "author": "Isamu Thung",
-      "coverDateMode": "today",
-      "coverDate": null,
+      "coverDateMode": "fixed",
+      "coverDate": "2026-08-31",
       "coverShowAuthor": true,
       "coverShowDate": true,
       "coverShowSubtitle": false,
@@ -24,7 +24,7 @@
       "showToc": false,
       "slug": "sm-fc2qmt6o",
       "published": true,
-      "publishedAt": null,
+      "publishedAt": "2026-08-26T03:22:51.253106Z",
       "devicePreview": "desktop",
       "share": {
         "visibility": "private",
@@ -362,7 +362,7 @@
             {
               "end": 121,
               "href": "#sm-cite-cite-97dgw1gz",
-              "start": 111,
+              "start": 112,
               "fontStyle": "normal",
               "underline": true,
               "citationId": "cite-hgfzgv3i",
@@ -747,7 +747,7 @@
                 ],
                 "pointSizePreset": 2
               },
-              "capturedAt": "2026-08-25T20:00:20.361Z",
+              "capturedAt": "2026-08-31T22:53:11.967Z",
               "kind": "map",
               "blockId": "mb-2ebucmbz",
               "title": "Basic Analysis Map 2"
@@ -1175,7 +1175,7 @@
           "title": "Analysis ",
           "titleVisible": true,
           "bodyVisible": true,
-          "body": "While many factors impact whether a wastewater treatment plant is a viable candidate for a combined heat and power (CHP) upgrade, this analysis was intended as a preliminary screening exercise rather than a comprehensive assessment. The metric I focused on was whether the wastewater treatment plant has an anaerobic digester as without one, the system will not produce biogas to be used for fuel. Thus I searched for this information for each facility and documented the web source(s) used to support each data point. If a digester was identified, additional metrics such as digester gas production and  biogas flaring could be investigated in a more detailed analysis but that was beyond the scope of what I decided to do. \nFuthermore, I conducted a basic geospatial analysis to identify the Electric Load Serving Entity associated with each facility. I then cross-referenced the identified utility with the 2024 Utility Bundled Retail Sales dataset published by the U.S Energy Information Administration to obtain the corresponding electricity rate. While this isn't a defensible use for actual regional electricity data, I wanted to leverage the geospatial platfrom to perform at least one points-in-polygon based analysis.",
+          "body": "While many factors impact whether a wastewater treatment plant is a viable candidate for a combined heat and power (CHP) upgrade, this analysis was intended as a preliminary screening exercise rather than a comprehensive assessment. The metric I focused on was whether the wastewater treatment plant has an anaerobic digester as without one, the system will not produce biogas to be used for fuel. Thus I searched for this information for each facility and documented the web source(s) used to support each data point. If a digester was identified, additional metrics such as digester gas production and  biogas flaring could be investigated in a more detailed analysis but that was beyond the scope of what I decided to do. \nFuthermore, I conducted a basic geospatial analysis to identify the Electric Load Serving Entity associated with each facility. I then cross-referenced the identified utility with the 2024 Utility Bundled Retail Sales dataset published by the U.S. Energy Information Administration to obtain the corresponding electricity rate. While this isn't a defensible use for actual regional electricity data, I wanted to leverage the geospatial platfrom to perform at least one points-in-polygon based analysis.",
           "embedRef": null,
           "media": null,
           "figure": null,
@@ -1211,7 +1211,7 @@
               "underline": true
             },
             {
-              "end": 1006,
+              "end": 1007,
               "href": "https://www.eia.gov/electricity/sales_revenue_price/",
               "color": "#1a73e8",
               "start": 969,
@@ -1239,7 +1239,7 @@
           "title": "",
           "titleVisible": false,
           "bodyVisible": true,
-          "body": "The results of this preliminary analysis revealed a striking truth: the majority of wastewater treatment plants within California aren't equipped with anaerobic digesters to make them eligable to even consider upgrading to a CHP system.\nFrom the 254 facilities I identified as not having CHP,  54 of them indicated from web searches that they had anaerobic digesters. Another 195 facilities were too either too small to warrent that system, had other non-digestion solids management solutions, or didn't process solids on-site and so they sent it to bigger regional facilities that could process them. 5 of them were inconclusive. This map to the right displays the locations of each facility with cleaned names, and with metadata about the sources used to find this informatino out when you click on each point. Futhermore, the results of the electrical rate geospatial analsyis is also in the data, however many facilites were situated in locations with overlapping electric service territories, so those remain inconclusive. \nPotential Candidates Map Results",
+          "body": "The results of this preliminary analysis revealed a striking truth: the majority of wastewater treatment plants within California aren't equipped with anaerobic digesters to make them eligable to even consider upgrading to a CHP system.\nFrom the 254 facilities I identified as not having CHP, 54 of them indicated from web searches that they had anaerobic digesters. Another 195 facilities were too either too small to warrent that system, had other non-digestion solids management solutions, or didn't process solids on-site and so they sent it to bigger regional facilities that could process them. 5 of them were inconclusive. The map on the right displays the locations of each facility with cleaned names, and with metadata about the sources used to find this informatino out when you click on each point. Futhermore, the results of the electrical rate geospatial analsyis is also in the data, however many facilites were situated in locations with overlapping electric service territories, so those remain inconclusive. \nPotential Candidates Map Results",
           "embedRef": null,
           "media": null,
           "figure": null,
@@ -1256,15 +1256,15 @@
           },
           "styleRuns": [
             {
-              "end": 602,
+              "end": 601,
               "start": 0,
               "fontSize": 12,
               "underline": false,
               "fontFamily": "sans"
             },
             {
-              "end": 1061,
-              "start": 1029,
+              "end": 1059,
+              "start": 1027,
               "fontSize": 12,
               "fontFamily": "sans",
               "fontWeight": 600,
@@ -1411,7 +1411,7 @@
                 ],
                 "pointSizePreset": 2
               },
-              "capturedAt": "2026-08-25T20:00:20.361Z",
+              "capturedAt": "2026-08-31T22:53:11.967Z",
               "kind": "map",
               "blockId": "mb-3ae73zc7",
               "title": "Facilities Without CHP System"
@@ -1602,7 +1602,7 @@
             {
               "end": 461,
               "href": "#sm-cite-cite-u7zsprcp",
-              "start": 454,
+              "start": 455,
               "fontStyle": "normal",
               "underline": true,
               "citationId": "cite-je4ethe8",
@@ -1611,7 +1611,7 @@
             {
               "end": 1048,
               "href": "#sm-cite-cite-u7zsprcp",
-              "start": 1041,
+              "start": 1042,
               "fontStyle": "normal",
               "underline": true,
               "citationId": "cite-u7zsprcp",
@@ -1706,11 +1706,11 @@
               "fontFamily": "sans"
             },
             {
-              "end": 635,
-              "href": "https://drive.google.com/file/d/1t8d0JC0VuubBmZIkDmhpYi71QUM6lVse/view?usp=sharing",
-              "color": "#1a73e8",
               "start": 619,
+              "end": 635,
               "fontSize": 12,
+              "href": "https://drive.google.com/file/d/1ez1TUoIC-Q67ecuPzXfjb13ELAfQUouP/view",
+              "color": "#1a73e8",
               "underline": true
             }
           ],
@@ -1839,14 +1839,14 @@
       ]
     },
     "board": {
-      "capturedAt": "2026-08-25T20:00:20.361Z",
+      "capturedAt": "2026-08-31T22:53:11.967Z",
       "maps": [
         {
           "id": "mb-2ebucmbz",
           "type": "map",
           "title": "Basic Analysis Map 2",
-          "x": -88.8006882440476,
-          "y": 573.544921875,
+          "x": -37.30154854910711,
+          "y": 621.7037577798458,
           "w": 420,
           "h": 320,
           "overlayLayerIds": [
@@ -2153,8 +2153,8 @@
           "id": "mb-3ae73zc7",
           "type": "map",
           "title": "Facilities Without CHP System",
-          "x": -62.69855317615328,
-          "y": 839.7037876674107,
+          "x": -34.47996593656999,
+          "y": 464.39509509858647,
           "w": 420,
           "h": 320,
           "overlayLayerIds": [
@@ -80668,13 +80668,15 @@
                     ]
                   ]
                 ],
-                "0",
-                "#94b9e8",
                 "false",
+                "#f45757",
+                "0",
                 "#f45757",
                 "insufficient",
                 "#9cab9c",
                 "true",
+                "#237029",
+                "1",
                 "#237029",
                 "#94b9e8"
               ],
@@ -80692,7 +80694,11 @@
                 ],
                 "true",
                 0.72,
+                "1",
+                0.72,
                 "false",
+                0.72,
+                "0",
                 0.72,
                 "insufficient",
                 0.72,
@@ -80715,7 +80721,11 @@
                 ],
                 "true",
                 "#263e1d",
+                "1",
+                "#263e1d",
                 "false",
+                "#7d0c0c",
+                "0",
                 "#7d0c0c",
                 "insufficient",
                 "#655d5d",
@@ -80735,7 +80745,11 @@
                 ],
                 "true",
                 0.8,
+                "1",
+                0.8,
                 "false",
+                0.8,
+                "0",
                 0.8,
                 "insufficient",
                 0.8,
@@ -80755,7 +80769,11 @@
                 ],
                 "true",
                 1,
+                "1",
+                1,
                 "false",
+                1,
+                "0",
                 1,
                 "insufficient",
                 1,
@@ -80775,13 +80793,15 @@
                     ]
                   ]
                 ],
-                "0",
-                "#94b9e8",
                 "false",
+                "#f45757",
+                "0",
                 "#f45757",
                 "insufficient",
                 "#9cab9c",
                 "true",
+                "#237029",
+                "1",
                 "#237029",
                 "#94b9e8"
               ],
@@ -80799,7 +80819,11 @@
                 ],
                 "true",
                 5,
+                "1",
+                5,
                 "false",
+                4,
+                "0",
                 4,
                 "insufficient",
                 2.5,
@@ -80819,7 +80843,11 @@
                 ],
                 "true",
                 0.72,
+                "1",
+                0.72,
                 "false",
+                0.72,
+                "0",
                 0.72,
                 "insufficient",
                 0.72,
@@ -80839,7 +80867,11 @@
                 ],
                 "true",
                 "#263e1d",
+                "1",
+                "#263e1d",
                 "false",
+                "#7d0c0c",
+                "0",
                 "#7d0c0c",
                 "insufficient",
                 "#655d5d",
@@ -80859,7 +80891,11 @@
                 ],
                 "true",
                 0.8,
+                "1",
+                0.8,
                 "false",
+                0.8,
+                "0",
                 0.8,
                 "insufficient",
                 0.8,
@@ -80879,7 +80915,11 @@
                 ],
                 "true",
                 1,
+                "1",
+                1,
                 "false",
+                1,
+                "0",
                 1,
                 "insufficient",
                 1,
@@ -80892,10 +80932,6 @@
             "title": "Has Anerobic Digester",
             "layerTitle": "Facilities Without CHP System 2",
             "items": [
-              {
-                "label": "0",
-                "color": "#94b9e8"
-              },
               {
                 "label": "False",
                 "color": "#f45757"
@@ -230882,8 +230918,8 @@
         "showAuthor": true,
         "showDate": true,
         "showSubtitle": false,
-        "dateMode": "today",
-        "dateLabel": "August 25, 2026",
+        "dateMode": "fixed",
+        "dateLabel": "August 31, 2026",
         "panelOpacity": 82,
         "panelFill": "rgba(18, 58, 84, 0.82)",
         "panelBox": {
